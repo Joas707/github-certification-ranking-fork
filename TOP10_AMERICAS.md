@@ -1,13 +1,13 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: June 14, 2026 at 02:20 UTC
+> Last updated: June 15, 2026 at 02:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade<br>Avanade<br>Avanade | Brazil<br>Brazil<br>Brazil |
+| 🥈 #2 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade<br>Avanade | Brazil<br>Brazil |
 | 🥉 #3 | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 17 | Avanade | Brazil |
 | #4 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Xebia<br>Avanade<br>Avanade | United States<br>Brazil<br>Brazil |
 | #5 | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Lenovo<br>Xebia | Canada<br>United States |
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 212 | 15 |
+| 🥇 #1 | Avanade | 194 | 14 |
 | 🥈 #2 | Xebia | 72 | 5 |
 | 🥉 #3 | ilegra | 26 | 2 |
 | #4 | Lenovo | 15 | 1 |
@@ -35,9 +35,9 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3968 | 2813 |
-| 🥈 #2 | Brazil | 2033 | 1524 |
-| 🥉 #3 | Canada | 721 | 549 |
+| 🥇 #1 | United States | 3977 | 2814 |
+| 🥈 #2 | Brazil | 2023 | 1525 |
+| 🥉 #3 | Canada | 730 | 551 |
 | #4 | Mexico | 562 | 447 |
 | #5 | Peru | 497 | 416 |
 
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,857
-- **Total Badges Earned**: 9,104
+- **Total Certified Users**: 6,861
+- **Total Badges Earned**: 9,112
 - **Average Badges per User**: 1.33
 - **Highest Badge Count**: 19
 
