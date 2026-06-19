@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: June 18, 2026 at 02:22 UTC
+> Last updated: June 19, 2026 at 02:50 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Xebia<br>Delta-N<br>Xebia<br>SoftwareOne<br>Eficode | Netherlands<br>Netherlands<br>Germany<br>Poland<br>Finland |
 | #8 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 11 | Cluster Reply GmbH<br>Xebia<br>Solidify Eficode | Germany<br>Netherlands<br>Sweden |
 | #9 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>GitHub<br>Xebia | Poland<br>Netherlands<br>Netherlands |
-| #10 | [Marcin Gapiński](https://www.credly.com/users/marcin-gapinski.10424558/badges)<br>[Marcin Kociński](https://www.credly.com/users/marcin-kocinski/badges)<br>[Piotr Nowakowski](https://www.credly.com/users/piotr-nowakowski.0ae6ed51/badges) | 9 | <br><br> | Poland<br>Poland<br>Poland |
+| #10 | [Marcin Gapiński](https://www.credly.com/users/marcin-gapinski.10424558/badges)<br>[Piotr Nowakowski](https://www.credly.com/users/piotr-nowakowski.0ae6ed51/badges) | 9 | <br> | Poland<br>Poland |
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1061 | 756 |
+| 🥇 #1 | United Kingdom | 1055 | 755 |
 | 🥈 #2 | Netherlands | 665 | 313 |
-| 🥉 #3 | Spain | 616 | 460 |
-| #4 | Germany | 477 | 343 |
-| #5 | Poland | 451 | 293 |
+| 🥉 #3 | Spain | 602 | 456 |
+| #4 | Germany | 478 | 345 |
+| #5 | Poland | 449 | 294 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,133
-- **Total Badges Earned**: 5,978
+- **Total Certified Users**: 4,131
+- **Total Badges Earned**: 5,973
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 19
 
