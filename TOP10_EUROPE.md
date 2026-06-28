@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: June 27, 2026 at 02:02 UTC
+> Last updated: June 28, 2026 at 02:12 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges) | 13 | Transition Technologies PSC<br>Solidify AB<br> | Poland<br>Estonia<br>Austria |
 | #8 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Xebia<br>Delta-N<br>Xebia<br>Eficode | Netherlands<br>Netherlands<br>Germany<br>Finland |
 | #9 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 11 | Cluster Reply GmbH<br>Xebia<br>Solidify Eficode | Germany<br>Netherlands<br>Sweden |
-| #10 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>GitHub<br>Xebia | Poland<br>Netherlands<br>Netherlands |
+| #10 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Pawel Stuczynski](https://www.credly.com/users/pawel-stuczynski/badges)<br>[Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>SoftwareOne<br>GitHub<br>Xebia | Poland<br>Poland<br>Netherlands<br>Netherlands |
 
 ---
 
@@ -26,8 +26,8 @@
 | 🥇 #1 | Xebia | 144 | 10 |
 | 🥈 #2 | Delta-N | 65 | 4 |
 | 🥉 #3 | Avanade | 52 | 3 |
-| #4 | Eficode | 26 | 2 |
-| #5 | Microsoft | 18 | 1 |
+| #4 | SoftwareOne | 27 | 2 |
+| #5 | Eficode | 26 | 2 |
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1060 | 756 |
+| 🥇 #1 | United Kingdom | 1067 | 758 |
 | 🥈 #2 | Netherlands | 665 | 313 |
-| 🥉 #3 | Spain | 600 | 456 |
-| #4 | Germany | 482 | 346 |
-| #5 | Poland | 474 | 296 |
+| 🥉 #3 | Spain | 614 | 460 |
+| #4 | Poland | 478 | 296 |
+| #5 | Germany | 477 | 344 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,150
-- **Total Badges Earned**: 6,017
+- **Total Certified Users**: 4,156
+- **Total Badges Earned**: 6,042
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 19
 

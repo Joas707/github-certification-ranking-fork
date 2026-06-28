@@ -1,992 +1,992 @@
 {
   "Antigua And Barbuda": {
     "csv_file": "datasource/github-certs-antigua-and-barbuda.csv",
-    "last_updated": "2026-06-27T01:56:49.690294",
+    "last_updated": "2026-06-28T02:07:17.031025",
     "status": "success"
   },
   "Andorra": {
     "csv_file": "datasource/github-certs-andorra.csv",
-    "last_updated": "2026-06-27T01:56:51.045832",
+    "last_updated": "2026-06-28T02:07:18.574195",
     "status": "success"
   },
   "Afghanistan": {
     "csv_file": "datasource/github-certs-afghanistan.csv",
-    "last_updated": "2026-06-27T01:56:51.258146",
+    "last_updated": "2026-06-28T02:07:18.443547",
     "status": "success"
   },
   "Armenia": {
     "csv_file": "datasource/github-certs-armenia.csv",
-    "last_updated": "2026-06-27T01:56:54.692138",
+    "last_updated": "2026-06-28T02:07:21.960235",
     "status": "success"
   },
   "Albania": {
     "csv_file": "datasource/github-certs-albania.csv",
-    "last_updated": "2026-06-27T01:56:52.323252",
+    "last_updated": "2026-06-28T02:07:19.083172",
     "status": "success"
   },
   "Azerbaijan": {
     "csv_file": "datasource/github-certs-azerbaijan.csv",
-    "last_updated": "2026-06-27T01:56:53.115671",
+    "last_updated": "2026-06-28T02:07:20.274185",
     "status": "success"
   },
   "Algeria": {
     "csv_file": "datasource/github-certs-algeria.csv",
-    "last_updated": "2026-06-27T01:57:02.625185",
+    "last_updated": "2026-06-28T02:07:31.124094",
     "status": "success"
   },
   "Bahrain": {
     "csv_file": "datasource/github-certs-bahrain.csv",
-    "last_updated": "2026-06-27T01:56:58.414400",
+    "last_updated": "2026-06-28T02:07:25.119061",
     "status": "success"
   },
   "Angola": {
     "csv_file": "datasource/github-certs-angola.csv",
-    "last_updated": "2026-06-27T01:57:00.097111",
+    "last_updated": "2026-06-28T02:07:30.030827",
     "status": "success"
   },
   "Belize": {
     "csv_file": "datasource/github-certs-belize.csv",
-    "last_updated": "2026-06-27T01:56:56.572869",
+    "last_updated": "2026-06-28T02:07:24.368446",
     "status": "success"
   },
   "Bahamas": {
     "csv_file": "datasource/github-certs-bahamas.csv",
-    "last_updated": "2026-06-27T01:56:53.301876",
+    "last_updated": "2026-06-28T02:07:20.965053",
     "status": "success"
   },
   "Bhutan": {
     "csv_file": "datasource/github-certs-bhutan.csv",
-    "last_updated": "2026-06-27T01:56:57.321200",
+    "last_updated": "2026-06-28T02:07:25.407099",
     "status": "success"
   },
   "Belarus": {
     "csv_file": "datasource/github-certs-belarus.csv",
-    "last_updated": "2026-06-27T01:56:56.315518",
+    "last_updated": "2026-06-28T02:07:24.062076",
     "status": "success"
   },
   "Benin": {
     "csv_file": "datasource/github-certs-benin.csv",
-    "last_updated": "2026-06-27T01:56:59.202407",
+    "last_updated": "2026-06-28T02:07:26.606051",
     "status": "success"
   },
   "Bosnia And Herzegovina": {
     "csv_file": "datasource/github-certs-bosnia-and-herzegovina.csv",
-    "last_updated": "2026-06-27T01:56:58.733426",
+    "last_updated": "2026-06-28T02:07:26.051325",
     "status": "success"
   },
   "Brunei": {
     "csv_file": "datasource/github-certs-brunei.csv",
-    "last_updated": "2026-06-27T01:57:00.434879",
+    "last_updated": "2026-06-28T02:07:28.762685",
     "status": "success"
   },
   "Botswana": {
     "csv_file": "datasource/github-certs-botswana.csv",
-    "last_updated": "2026-06-27T01:57:03.287462",
+    "last_updated": "2026-06-28T02:07:28.423875",
     "status": "success"
   },
   "Burkina Faso": {
     "csv_file": "datasource/github-certs-burkina-faso.csv",
-    "last_updated": "2026-06-27T01:57:03.471917",
+    "last_updated": "2026-06-28T02:07:30.421990",
     "status": "success"
   },
   "Barbados": {
     "csv_file": "datasource/github-certs-barbados.csv",
-    "last_updated": "2026-06-27T01:56:56.981696",
+    "last_updated": "2026-06-28T02:07:25.659588",
     "status": "success"
   },
   "Austria": {
     "csv_file": "datasource/github-certs-austria.csv",
-    "last_updated": "2026-06-27T01:57:20.493813",
+    "last_updated": "2026-06-28T02:08:07.498262",
     "status": "success"
   },
   "Burundi": {
     "csv_file": "datasource/github-certs-burundi.csv",
-    "last_updated": "2026-06-27T01:57:03.806788",
+    "last_updated": "2026-06-28T02:07:30.827500",
     "status": "success"
   },
   "Cambodia": {
     "csv_file": "datasource/github-certs-cambodia.csv",
-    "last_updated": "2026-06-27T01:57:10.129658",
+    "last_updated": "2026-06-28T02:07:39.357670",
     "status": "success"
   },
   "Bolivia": {
     "csv_file": "datasource/github-certs-bolivia.csv",
-    "last_updated": "2026-06-27T01:57:11.685797",
+    "last_updated": "2026-06-28T02:07:48.394539",
     "status": "success"
   },
   "Cape Verde": {
     "csv_file": "datasource/github-certs-cape-verde.csv",
-    "last_updated": "2026-06-27T01:57:12.071432",
+    "last_updated": "2026-06-28T02:07:45.781331",
     "status": "success"
   },
   "Chad": {
     "csv_file": "datasource/github-certs-chad.csv",
-    "last_updated": "2026-06-27T01:57:13.049690",
+    "last_updated": "2026-06-28T02:07:46.435752",
     "status": "success"
   },
   "Cameroon": {
     "csv_file": "datasource/github-certs-cameroon.csv",
-    "last_updated": "2026-06-27T01:57:16.267228",
+    "last_updated": "2026-06-28T02:07:45.493973",
     "status": "success"
   },
   "Bangladesh": {
     "csv_file": "datasource/github-certs-bangladesh.csv",
-    "last_updated": "2026-06-27T01:57:19.463072",
+    "last_updated": "2026-06-28T02:07:47.332190",
     "status": "success"
   },
   "Bulgaria": {
     "csv_file": "datasource/github-certs-bulgaria.csv",
-    "last_updated": "2026-06-27T01:57:27.247330",
+    "last_updated": "2026-06-28T02:07:53.311990",
     "status": "success"
   },
   "Comoros": {
     "csv_file": "datasource/github-certs-comoros.csv",
-    "last_updated": "2026-06-27T01:57:20.817792",
+    "last_updated": "2026-06-28T02:07:48.683578",
     "status": "success"
   },
   "Central African Republic": {
     "csv_file": "datasource/github-certs-central-african-republic.csv",
-    "last_updated": "2026-06-27T01:57:12.741549",
+    "last_updated": "2026-06-28T02:07:46.050476",
     "status": "success"
   },
   "Croatia": {
     "csv_file": "datasource/github-certs-croatia.csv",
-    "last_updated": "2026-06-27T01:57:25.320492",
+    "last_updated": "2026-06-28T02:07:53.115266",
     "status": "success"
   },
   "Cuba": {
     "csv_file": "datasource/github-certs-cuba.csv",
-    "last_updated": "2026-06-27T01:57:30.416816",
+    "last_updated": "2026-06-28T02:07:55.153023",
     "status": "success"
   },
   "Belgium": {
     "csv_file": "datasource/github-certs-belgium.csv",
-    "last_updated": "2026-06-27T01:57:29.736236",
+    "last_updated": "2026-06-28T02:07:49.232855",
     "status": "success"
   },
   "Cyprus": {
     "csv_file": "datasource/github-certs-cyprus.csv",
-    "last_updated": "2026-06-27T01:57:47.661414",
+    "last_updated": "2026-06-28T02:08:04.371520",
     "status": "success"
   },
   "Democratic Republic Of The Congo": {
     "csv_file": "datasource/github-certs-democratic-republic-of-the-congo.csv",
-    "last_updated": "2026-06-27T01:57:30.885373",
+    "last_updated": "2026-06-28T02:08:05.844269",
     "status": "success"
   },
   "Argentina": {
     "csv_file": "datasource/github-certs-argentina.csv",
-    "last_updated": "2026-06-27T01:57:20.997876",
+    "last_updated": "2026-06-28T02:07:45.962960",
     "status": "success"
   },
   "Djibouti": {
     "csv_file": "datasource/github-certs-djibouti.csv",
-    "last_updated": "2026-06-27T01:57:46.632133",
+    "last_updated": "2026-06-28T02:08:08.440313",
     "status": "success"
   },
   "Dominica": {
     "csv_file": "datasource/github-certs-dominica.csv",
-    "last_updated": "2026-06-27T01:57:47.371363",
+    "last_updated": "2026-06-28T02:08:08.747000",
     "status": "success"
   },
   "Czech Republic": {
     "csv_file": "datasource/github-certs-czech-republic.csv",
-    "last_updated": "2026-06-27T01:57:55.448029",
+    "last_updated": "2026-06-28T02:08:18.699040",
     "status": "success"
   },
   "East Timor": {
     "csv_file": "datasource/github-certs-east-timor.csv",
-    "last_updated": "2026-06-27T01:57:48.608672",
+    "last_updated": "2026-06-28T02:08:16.201769",
     "status": "success"
   },
   "Dominican Republic": {
     "csv_file": "datasource/github-certs-dominican-republic.csv",
-    "last_updated": "2026-06-27T01:57:56.110827",
+    "last_updated": "2026-06-28T02:08:15.838236",
     "status": "success"
   },
   "Denmark": {
     "csv_file": "datasource/github-certs-denmark.csv",
-    "last_updated": "2026-06-27T01:57:55.888420",
+    "last_updated": "2026-06-28T02:08:34.677327",
     "status": "success"
   },
   "Costa Rica": {
     "csv_file": "datasource/github-certs-costa-rica.csv",
-    "last_updated": "2026-06-27T01:57:56.066834",
+    "last_updated": "2026-06-28T02:08:18.540096",
     "status": "success"
   },
   "Equatorial Guinea": {
     "csv_file": "datasource/github-certs-equatorial-guinea.csv",
-    "last_updated": "2026-06-27T01:57:55.704002",
+    "last_updated": "2026-06-28T02:08:20.374929",
     "status": "success"
   },
   "Eritrea": {
     "csv_file": "datasource/github-certs-eritrea.csv",
-    "last_updated": "2026-06-27T01:57:56.069915",
+    "last_updated": "2026-06-28T02:08:20.471066",
     "status": "success"
   },
   "El Salvador": {
     "csv_file": "datasource/github-certs-el-salvador.csv",
-    "last_updated": "2026-06-27T01:58:02.500173",
+    "last_updated": "2026-06-28T02:08:24.834009",
     "status": "success"
   },
   "Estonia": {
     "csv_file": "datasource/github-certs-estonia.csv",
-    "last_updated": "2026-06-27T01:58:01.973513",
+    "last_updated": "2026-06-28T02:08:24.954441",
     "status": "success"
   },
   "Eswatini": {
     "csv_file": "datasource/github-certs-eswatini.csv",
-    "last_updated": "2026-06-27T01:57:56.421832",
+    "last_updated": "2026-06-28T02:08:20.705079",
     "status": "success"
   },
   "Ethiopia": {
     "csv_file": "datasource/github-certs-ethiopia.csv",
-    "last_updated": "2026-06-27T01:58:05.671942",
+    "last_updated": "2026-06-28T02:08:33.012122",
     "status": "success"
   },
   "Fiji": {
     "csv_file": "datasource/github-certs-fiji.csv",
-    "last_updated": "2026-06-27T01:58:01.111412",
+    "last_updated": "2026-06-28T02:08:34.247346",
     "status": "success"
   },
   "Ecuador": {
     "csv_file": "datasource/github-certs-ecuador.csv",
-    "last_updated": "2026-06-27T01:58:12.782944",
+    "last_updated": "2026-06-28T02:08:43.472167",
     "status": "success"
   },
   "Chile": {
     "csv_file": "datasource/github-certs-chile.csv",
-    "last_updated": "2026-06-27T01:57:46.273289",
+    "last_updated": "2026-06-28T02:08:20.187058",
     "status": "success"
   },
   "Gambia": {
     "csv_file": "datasource/github-certs-gambia.csv",
-    "last_updated": "2026-06-27T01:58:02.688797",
+    "last_updated": "2026-06-28T02:08:33.683367",
     "status": "success"
   },
   "China": {
     "csv_file": "datasource/github-certs-china.csv",
-    "last_updated": "2026-06-27T01:57:48.620571",
+    "last_updated": "2026-06-28T02:08:20.394825",
     "status": "success"
   },
   "Gabon": {
     "csv_file": "datasource/github-certs-gabon.csv",
-    "last_updated": "2026-06-27T01:58:02.397436",
+    "last_updated": "2026-06-28T02:08:33.309088",
     "status": "success"
   },
   "Georgia": {
     "csv_file": "datasource/github-certs-georgia.csv",
-    "last_updated": "2026-06-27T01:58:29.836868",
+    "last_updated": "2026-06-28T02:08:50.384186",
     "status": "success"
   },
   "Ghana": {
     "csv_file": "datasource/github-certs-ghana.csv",
-    "last_updated": "2026-06-27T01:58:31.992614",
+    "last_updated": "2026-06-28T02:09:02.943702",
     "status": "success"
   },
   "Greece": {
     "csv_file": "datasource/github-certs-greece.csv",
-    "last_updated": "2026-06-27T01:58:34.691911",
+    "last_updated": "2026-06-28T02:08:56.190971",
     "status": "success"
   },
   "Finland": {
     "csv_file": "datasource/github-certs-finland.csv",
-    "last_updated": "2026-06-27T01:58:33.058419",
+    "last_updated": "2026-06-28T02:08:50.117448",
     "status": "success"
   },
   "Guinea": {
     "csv_file": "datasource/github-certs-guinea.csv",
-    "last_updated": "2026-06-27T01:58:15.746592",
+    "last_updated": "2026-06-28T02:08:44.272626",
     "status": "success"
   },
   "Grenada": {
     "csv_file": "datasource/github-certs-grenada.csv",
-    "last_updated": "2026-06-27T01:58:15.339181",
+    "last_updated": "2026-06-28T02:08:37.917414",
     "status": "success"
   },
   "Guinea-Bissau": {
     "csv_file": "datasource/github-certs-guinea-bissau.csv",
-    "last_updated": "2026-06-27T01:58:16.149845",
+    "last_updated": "2026-06-28T02:08:44.559704",
     "status": "success"
   },
   "Haiti": {
     "csv_file": "datasource/github-certs-haiti.csv",
-    "last_updated": "2026-06-27T01:58:17.010402",
+    "last_updated": "2026-06-28T02:08:45.276714",
     "status": "success"
   },
   "Guyana": {
     "csv_file": "datasource/github-certs-guyana.csv",
-    "last_updated": "2026-06-27T01:58:16.501911",
+    "last_updated": "2026-06-28T02:08:44.913200",
     "status": "success"
   },
   "Egypt": {
     "csv_file": "datasource/github-certs-egypt.csv",
-    "last_updated": "2026-06-27T01:58:28.982340",
+    "last_updated": "2026-06-28T02:08:55.517959",
     "status": "success"
   },
   "Colombia": {
     "csv_file": "datasource/github-certs-colombia.csv",
-    "last_updated": "2026-06-27T01:58:11.834116",
+    "last_updated": "2026-06-28T02:08:20.104708",
     "status": "success"
   },
   "Honduras": {
     "csv_file": "datasource/github-certs-honduras.csv",
-    "last_updated": "2026-06-27T01:58:28.428307",
+    "last_updated": "2026-06-28T02:08:48.747912",
     "status": "success"
   },
   "Iceland": {
     "csv_file": "datasource/github-certs-iceland.csv",
-    "last_updated": "2026-06-27T01:58:32.212845",
+    "last_updated": "2026-06-28T02:08:52.396081",
     "status": "success"
   },
   "Guatemala": {
     "csv_file": "datasource/github-certs-guatemala.csv",
-    "last_updated": "2026-06-27T01:58:39.137846",
+    "last_updated": "2026-06-28T02:09:04.407630",
     "status": "success"
   },
   "Iran": {
     "csv_file": "datasource/github-certs-iran.csv",
-    "last_updated": "2026-06-27T01:58:32.737524",
+    "last_updated": "2026-06-28T02:08:52.713328",
     "status": "success"
   },
   "Iraq": {
     "csv_file": "datasource/github-certs-iraq.csv",
-    "last_updated": "2026-06-27T01:58:36.375892",
+    "last_updated": "2026-06-28T02:08:59.934302",
     "status": "success"
   },
   "Hungary": {
     "csv_file": "datasource/github-certs-hungary.csv",
-    "last_updated": "2026-06-27T01:58:48.771792",
+    "last_updated": "2026-06-28T02:09:12.217908",
     "status": "success"
   },
   "Ireland": {
     "csv_file": "datasource/github-certs-ireland.csv",
-    "last_updated": "2026-06-27T01:59:10.126727",
+    "last_updated": "2026-06-28T02:09:34.050584",
     "status": "success"
   },
   "Jamaica": {
     "csv_file": "datasource/github-certs-jamaica.csv",
-    "last_updated": "2026-06-27T01:58:39.659259",
+    "last_updated": "2026-06-28T02:09:03.916670",
     "status": "success"
   },
   "Israel": {
     "csv_file": "datasource/github-certs-israel.csv",
-    "last_updated": "2026-06-27T01:59:07.711139",
+    "last_updated": "2026-06-28T02:09:25.292625",
     "status": "success"
   },
   "Jordan": {
     "csv_file": "datasource/github-certs-jordan.csv",
-    "last_updated": "2026-06-27T01:58:50.859491",
+    "last_updated": "2026-06-28T02:09:09.751181",
     "status": "success"
   },
   "Ivory Coast": {
     "csv_file": "datasource/github-certs-ivory-coast.csv",
-    "last_updated": "2026-06-27T01:58:39.303610",
+    "last_updated": "2026-06-28T02:09:03.457596",
     "status": "success"
   },
   "Indonesia": {
     "csv_file": "datasource/github-certs-indonesia.csv",
-    "last_updated": "2026-06-27T01:58:57.363704",
+    "last_updated": "2026-06-28T02:09:20.701147",
     "status": "success"
   },
   "Kiribati": {
     "csv_file": "datasource/github-certs-kiribati.csv",
-    "last_updated": "2026-06-27T01:58:57.737962",
+    "last_updated": "2026-06-28T02:09:20.434460",
     "status": "success"
   },
   "France": {
     "csv_file": "datasource/github-certs-france.csv",
-    "last_updated": "2026-06-27T01:59:19.340054",
+    "last_updated": "2026-06-28T02:09:35.268793",
     "status": "success"
   },
   "Kosovo": {
     "csv_file": "datasource/github-certs-kosovo.csv",
-    "last_updated": "2026-06-27T01:59:04.459956",
+    "last_updated": "2026-06-28T02:09:22.568984",
     "status": "success"
   },
   "Australia": {
     "csv_file": "datasource/github-certs-australia.csv",
-    "last_updated": "2026-06-27T01:57:54.995453",
+    "last_updated": "2026-06-28T02:08:36.060225",
     "status": "success"
   },
   "Kuwait": {
     "csv_file": "datasource/github-certs-kuwait.csv",
-    "last_updated": "2026-06-27T01:59:06.878028",
+    "last_updated": "2026-06-28T02:09:25.701052",
     "status": "success"
   },
   "Laos": {
     "csv_file": "datasource/github-certs-laos.csv",
-    "last_updated": "2026-06-27T01:59:07.231705",
+    "last_updated": "2026-06-28T02:09:25.618989",
     "status": "success"
   },
   "Latvia": {
     "csv_file": "datasource/github-certs-latvia.csv",
-    "last_updated": "2026-06-27T01:59:18.287737",
+    "last_updated": "2026-06-28T02:09:35.145609",
     "status": "success"
   },
   "Kyrgyzstan": {
     "csv_file": "datasource/github-certs-kyrgyzstan.csv",
-    "last_updated": "2026-06-27T01:59:09.852071",
+    "last_updated": "2026-06-28T02:09:30.420128",
     "status": "success"
   },
   "Liberia": {
     "csv_file": "datasource/github-certs-liberia.csv",
-    "last_updated": "2026-06-27T01:59:11.231085",
+    "last_updated": "2026-06-28T02:09:30.725136",
     "status": "success"
   },
   "Lesotho": {
     "csv_file": "datasource/github-certs-lesotho.csv",
-    "last_updated": "2026-06-27T01:59:16.454319",
+    "last_updated": "2026-06-28T02:09:36.433361",
     "status": "success"
   },
   "Kazakhstan": {
     "csv_file": "datasource/github-certs-kazakhstan.csv",
-    "last_updated": "2026-06-27T01:59:02.317820",
+    "last_updated": "2026-06-28T02:09:20.072382",
     "status": "success"
   },
   "Libya": {
     "csv_file": "datasource/github-certs-libya.csv",
-    "last_updated": "2026-06-27T01:59:13.591528",
+    "last_updated": "2026-06-28T02:09:37.288755",
     "status": "success"
   },
   "Lebanon": {
     "csv_file": "datasource/github-certs-lebanon.csv",
-    "last_updated": "2026-06-27T01:59:12.953760",
+    "last_updated": "2026-06-28T02:09:29.141599",
     "status": "success"
   },
   "Madagascar": {
     "csv_file": "datasource/github-certs-madagascar.csv",
-    "last_updated": "2026-06-27T01:59:17.080552",
+    "last_updated": "2026-06-28T02:09:35.566573",
     "status": "success"
   },
   "Liechtenstein": {
     "csv_file": "datasource/github-certs-liechtenstein.csv",
-    "last_updated": "2026-06-27T01:59:13.958473",
+    "last_updated": "2026-06-28T02:09:34.355141",
     "status": "success"
   },
   "Lithuania": {
     "csv_file": "datasource/github-certs-lithuania.csv",
-    "last_updated": "2026-06-27T01:59:31.186875",
+    "last_updated": "2026-06-28T02:09:48.414537",
     "status": "success"
   },
   "Malawi": {
     "csv_file": "datasource/github-certs-malawi.csv",
-    "last_updated": "2026-06-27T01:59:18.453548",
+    "last_updated": "2026-06-28T02:09:37.002495",
     "status": "success"
   },
   "Maldives": {
     "csv_file": "datasource/github-certs-maldives.csv",
-    "last_updated": "2026-06-27T01:59:19.167773",
+    "last_updated": "2026-06-28T02:09:37.493034",
     "status": "success"
   },
   "Mali": {
     "csv_file": "datasource/github-certs-mali.csv",
-    "last_updated": "2026-06-27T01:59:19.560754",
+    "last_updated": "2026-06-28T02:09:38.810593",
     "status": "success"
   },
   "Marshall Islands": {
     "csv_file": "datasource/github-certs-marshall-islands.csv",
-    "last_updated": "2026-06-27T01:59:19.986421",
+    "last_updated": "2026-06-28T02:09:38.217628",
     "status": "success"
   },
   "Malta": {
     "csv_file": "datasource/github-certs-malta.csv",
-    "last_updated": "2026-06-27T01:59:30.685871",
+    "last_updated": "2026-06-28T02:09:46.384967",
     "status": "success"
   },
   "Luxembourg": {
     "csv_file": "datasource/github-certs-luxembourg.csv",
-    "last_updated": "2026-06-27T01:59:20.151497",
+    "last_updated": "2026-06-28T02:09:37.917768",
     "status": "success"
   },
   "Mauritania": {
     "csv_file": "datasource/github-certs-mauritania.csv",
-    "last_updated": "2026-06-27T01:59:25.991785",
+    "last_updated": "2026-06-28T02:09:46.720561",
     "status": "success"
   },
   "Micronesia": {
     "csv_file": "datasource/github-certs-micronesia.csv",
-    "last_updated": "2026-06-27T01:59:24.704799",
+    "last_updated": "2026-06-28T02:09:46.635794",
     "status": "success"
   },
   "Mauritius": {
     "csv_file": "datasource/github-certs-mauritius.csv",
-    "last_updated": "2026-06-27T01:59:24.406688",
+    "last_updated": "2026-06-28T02:09:43.028273",
     "status": "success"
   },
   "Moldova": {
     "csv_file": "datasource/github-certs-moldova.csv",
-    "last_updated": "2026-06-27T01:59:25.095241",
+    "last_updated": "2026-06-28T02:09:46.699094",
     "status": "success"
   },
   "Monaco": {
     "csv_file": "datasource/github-certs-monaco.csv",
-    "last_updated": "2026-06-27T01:59:25.409792",
+    "last_updated": "2026-06-28T02:09:46.988031",
     "status": "success"
   },
   "Mongolia": {
     "csv_file": "datasource/github-certs-mongolia.csv",
-    "last_updated": "2026-06-27T01:59:25.713587",
+    "last_updated": "2026-06-28T02:09:48.576513",
     "status": "success"
   },
   "Montenegro": {
     "csv_file": "datasource/github-certs-montenegro.csv",
-    "last_updated": "2026-06-27T01:59:32.708290",
+    "last_updated": "2026-06-28T02:09:50.767423",
     "status": "success"
   },
   "Mozambique": {
     "csv_file": "datasource/github-certs-mozambique.csv",
-    "last_updated": "2026-06-27T01:59:36.321765",
+    "last_updated": "2026-06-28T02:09:49.658767",
     "status": "success"
   },
   "Canada": {
     "csv_file": "datasource/github-certs-canada.csv",
-    "last_updated": "2026-06-27T01:58:36.675058",
+    "last_updated": "2026-06-28T02:08:48.712614",
     "status": "success"
   },
   "Kenya": {
     "csv_file": "datasource/github-certs-kenya.csv",
-    "last_updated": "2026-06-27T01:59:50.226531",
+    "last_updated": "2026-06-28T02:09:50.248562",
     "status": "success"
   },
   "Nauru": {
     "csv_file": "datasource/github-certs-nauru.csv",
-    "last_updated": "2026-06-27T01:59:36.743251",
+    "last_updated": "2026-06-28T02:09:49.922249",
     "status": "success"
   },
   "Namibia": {
     "csv_file": "datasource/github-certs-namibia.csv",
-    "last_updated": "2026-06-27T01:59:38.104195",
+    "last_updated": "2026-06-28T02:09:51.989311",
     "status": "success"
   },
   "Malaysia": {
     "csv_file": "datasource/github-certs-malaysia.csv",
-    "last_updated": "2026-06-27T02:00:23.536082",
+    "last_updated": "2026-06-28T02:10:47.902438",
     "status": "success"
   },
   "Myanmar": {
     "csv_file": "datasource/github-certs-myanmar.csv",
-    "last_updated": "2026-06-27T01:59:48.263334",
+    "last_updated": "2026-06-28T02:10:04.091803",
     "status": "success"
   },
   "Germany": {
     "csv_file": "datasource/github-certs-germany.csv",
-    "last_updated": "2026-06-27T01:59:19.800772",
+    "last_updated": "2026-06-28T02:09:46.067607",
     "status": "success"
   },
   "Niger": {
     "csv_file": "datasource/github-certs-niger.csv",
-    "last_updated": "2026-06-27T01:59:44.688924",
+    "last_updated": "2026-06-28T02:10:03.769077",
     "status": "success"
   },
   "Nepal": {
     "csv_file": "datasource/github-certs-nepal.csv",
-    "last_updated": "2026-06-27T01:59:51.997816",
+    "last_updated": "2026-06-28T02:10:04.373993",
     "status": "success"
   },
   "North Korea": {
     "csv_file": "datasource/github-certs-north-korea.csv",
-    "last_updated": "2026-06-27T01:59:46.635102",
+    "last_updated": "2026-06-28T02:10:04.307599",
     "status": "success"
   },
   "Nicaragua": {
     "csv_file": "datasource/github-certs-nicaragua.csv",
-    "last_updated": "2026-06-27T01:59:50.955445",
+    "last_updated": "2026-06-28T02:10:03.212975",
     "status": "success"
   },
   "North Macedonia": {
     "csv_file": "datasource/github-certs-north-macedonia.csv",
-    "last_updated": "2026-06-27T01:59:54.596945",
+    "last_updated": "2026-06-28T02:10:07.549825",
     "status": "success"
   },
   "Morocco": {
     "csv_file": "datasource/github-certs-morocco.csv",
-    "last_updated": "2026-06-27T01:59:42.829841",
+    "last_updated": "2026-06-28T02:10:05.133947",
     "status": "success"
   },
   "Oman": {
     "csv_file": "datasource/github-certs-oman.csv",
-    "last_updated": "2026-06-27T01:59:56.221047",
+    "last_updated": "2026-06-28T02:10:11.188728",
     "status": "success"
   },
   "Palau": {
     "csv_file": "datasource/github-certs-palau.csv",
-    "last_updated": "2026-06-27T01:59:52.339091",
+    "last_updated": "2026-06-28T02:10:06.098346",
     "status": "success"
   },
   "Palestine": {
     "csv_file": "datasource/github-certs-palestine.csv",
-    "last_updated": "2026-06-27T01:59:52.700573",
+    "last_updated": "2026-06-28T02:10:06.426332",
     "status": "success"
   },
   "Panama": {
     "csv_file": "datasource/github-certs-panama.csv",
-    "last_updated": "2026-06-27T01:59:57.508089",
+    "last_updated": "2026-06-28T02:10:11.611013",
     "status": "success"
   },
   "Papua New Guinea": {
     "csv_file": "datasource/github-certs-papua-new-guinea.csv",
-    "last_updated": "2026-06-27T01:59:54.902971",
+    "last_updated": "2026-06-28T02:10:07.826453",
     "status": "success"
   },
   "New Zealand": {
     "csv_file": "datasource/github-certs-new-zealand.csv",
-    "last_updated": "2026-06-27T02:00:03.868612",
+    "last_updated": "2026-06-28T02:10:11.137232",
     "status": "success"
   },
   "Paraguay": {
     "csv_file": "datasource/github-certs-paraguay.csv",
-    "last_updated": "2026-06-27T02:00:02.602365",
+    "last_updated": "2026-06-28T02:10:11.343939",
     "status": "success"
   },
   "Italy": {
     "csv_file": "datasource/github-certs-italy.csv",
-    "last_updated": "2026-06-27T01:59:37.456753",
+    "last_updated": "2026-06-28T02:09:48.037123",
     "status": "success"
   },
   "Japan": {
     "csv_file": "datasource/github-certs-japan.csv",
-    "last_updated": "2026-06-27T01:59:46.361980",
+    "last_updated": "2026-06-28T02:10:03.284521",
     "status": "success"
   },
   "Norway": {
     "csv_file": "datasource/github-certs-norway.csv",
-    "last_updated": "2026-06-27T02:00:31.162301",
+    "last_updated": "2026-06-28T02:10:32.789413",
     "status": "success"
   },
   "Qatar": {
     "csv_file": "datasource/github-certs-qatar.csv",
-    "last_updated": "2026-06-27T02:00:21.131428",
+    "last_updated": "2026-06-28T02:10:40.631592",
     "status": "success"
   },
   "Republic Of The Congo": {
     "csv_file": "datasource/github-certs-republic-of-the-congo.csv",
-    "last_updated": "2026-06-27T02:00:21.492146",
+    "last_updated": "2026-06-28T02:10:32.571668",
     "status": "success"
   },
   "Philippines": {
     "csv_file": "datasource/github-certs-philippines.csv",
-    "last_updated": "2026-06-27T02:00:30.661964",
+    "last_updated": "2026-06-28T02:10:35.390176",
     "status": "success"
   },
   "Russia": {
     "csv_file": "datasource/github-certs-russia.csv",
-    "last_updated": "2026-06-27T02:00:23.287123",
+    "last_updated": "2026-06-28T02:10:33.203549",
     "status": "success"
   },
   "Rwanda": {
     "csv_file": "datasource/github-certs-rwanda.csv",
-    "last_updated": "2026-06-27T02:00:27.877686",
+    "last_updated": "2026-06-28T02:10:38.480257",
     "status": "success"
   },
   "Pakistan": {
     "csv_file": "datasource/github-certs-pakistan.csv",
-    "last_updated": "2026-06-27T02:00:23.091957",
+    "last_updated": "2026-06-28T02:10:32.294270",
     "status": "success"
   },
   "Saint Lucia": {
     "csv_file": "datasource/github-certs-saint-lucia.csv",
-    "last_updated": "2026-06-27T02:00:23.926795",
+    "last_updated": "2026-06-28T02:10:35.777071",
     "status": "success"
   },
   "Saint Vincent And The Grenadines": {
     "csv_file": "datasource/github-certs-saint-vincent-and-the-grenadines.csv",
-    "last_updated": "2026-06-27T02:00:24.248400",
+    "last_updated": "2026-06-28T02:10:36.017448",
     "status": "success"
   },
   "Saint Kitts And Nevis": {
     "csv_file": "datasource/github-certs-saint-kitts-and-nevis.csv",
-    "last_updated": "2026-06-27T02:00:25.827753",
+    "last_updated": "2026-06-28T02:10:37.107720",
     "status": "success"
   },
   "Samoa": {
     "csv_file": "datasource/github-certs-samoa.csv",
-    "last_updated": "2026-06-27T02:00:24.536130",
+    "last_updated": "2026-06-28T02:10:37.268571",
     "status": "success"
   },
   "San Marino": {
     "csv_file": "datasource/github-certs-san-marino.csv",
-    "last_updated": "2026-06-27T02:00:24.895832",
+    "last_updated": "2026-06-28T02:10:36.375035",
     "status": "success"
   },
   "Sao Tome And Principe": {
     "csv_file": "datasource/github-certs-sao-tome-and-principe.csv",
-    "last_updated": "2026-06-27T02:00:25.218878",
+    "last_updated": "2026-06-28T02:10:36.705472",
     "status": "success"
   },
   "Netherlands": {
     "csv_file": "datasource/github-certs-netherlands.csv",
-    "last_updated": "2026-06-27T02:00:22.809986",
+    "last_updated": "2026-06-28T02:10:36.111480",
     "status": "success"
   },
   "Romania": {
     "csv_file": "datasource/github-certs-romania.csv",
-    "last_updated": "2026-06-27T02:00:41.450274",
+    "last_updated": "2026-06-28T02:10:51.694465",
     "status": "success"
   },
   "Senegal": {
     "csv_file": "datasource/github-certs-senegal.csv",
-    "last_updated": "2026-06-27T02:00:29.625551",
+    "last_updated": "2026-06-28T02:10:41.961664",
     "status": "success"
   },
   "Seychelles": {
     "csv_file": "datasource/github-certs-seychelles.csv",
-    "last_updated": "2026-06-27T02:00:28.426058",
+    "last_updated": "2026-06-28T02:10:39.011910",
     "status": "success"
   },
   "Saudi Arabia": {
     "csv_file": "datasource/github-certs-saudi-arabia.csv",
-    "last_updated": "2026-06-27T02:00:42.349379",
+    "last_updated": "2026-06-28T02:10:46.357232",
     "status": "success"
   },
   "Sierra Leone": {
     "csv_file": "datasource/github-certs-sierra-leone.csv",
-    "last_updated": "2026-06-27T02:00:35.123035",
+    "last_updated": "2026-06-28T02:10:40.312049",
     "status": "success"
   },
   "Serbia": {
     "csv_file": "datasource/github-certs-serbia.csv",
-    "last_updated": "2026-06-27T02:00:41.911432",
+    "last_updated": "2026-06-28T02:10:46.510347",
     "status": "success"
   },
   "Solomon Islands": {
     "csv_file": "datasource/github-certs-solomon-islands.csv",
-    "last_updated": "2026-06-27T02:00:35.919169",
+    "last_updated": "2026-06-28T02:10:46.785646",
     "status": "success"
   },
   "Somalia": {
     "csv_file": "datasource/github-certs-somalia.csv",
-    "last_updated": "2026-06-27T02:00:40.345566",
+    "last_updated": "2026-06-28T02:10:51.365433",
     "status": "success"
   },
   "Slovakia": {
     "csv_file": "datasource/github-certs-slovakia.csv",
-    "last_updated": "2026-06-27T02:00:50.334533",
+    "last_updated": "2026-06-28T02:10:54.479203",
     "status": "success"
   },
   "Portugal": {
     "csv_file": "datasource/github-certs-portugal.csv",
-    "last_updated": "2026-06-27T02:00:41.755120",
+    "last_updated": "2026-06-28T02:10:34.740935",
     "status": "success"
   },
   "South Korea": {
     "csv_file": "datasource/github-certs-south-korea.csv",
-    "last_updated": "2026-06-27T02:00:40.612539",
+    "last_updated": "2026-06-28T02:10:48.190568",
     "status": "success"
   },
   "Slovenia": {
     "csv_file": "datasource/github-certs-slovenia.csv",
-    "last_updated": "2026-06-27T02:00:39.391010",
+    "last_updated": "2026-06-28T02:10:50.471311",
     "status": "success"
   },
   "South Sudan": {
     "csv_file": "datasource/github-certs-south-sudan.csv",
-    "last_updated": "2026-06-27T02:00:41.461846",
+    "last_updated": "2026-06-28T02:10:48.468957",
     "status": "success"
   },
   "Sudan": {
     "csv_file": "datasource/github-certs-sudan.csv",
-    "last_updated": "2026-06-27T02:00:42.088137",
+    "last_updated": "2026-06-28T02:10:51.640124",
     "status": "success"
   },
   "Suriname": {
     "csv_file": "datasource/github-certs-suriname.csv",
-    "last_updated": "2026-06-27T02:00:42.267431",
+    "last_updated": "2026-06-28T02:10:51.917081",
     "status": "success"
   },
   "Mexico": {
     "csv_file": "datasource/github-certs-mexico.csv",
-    "last_updated": "2026-06-27T02:00:07.399279",
+    "last_updated": "2026-06-28T02:10:29.655295",
     "status": "success"
   },
   "Nigeria": {
     "csv_file": "datasource/github-certs-nigeria.csv",
-    "last_updated": "2026-06-27T02:00:27.969440",
+    "last_updated": "2026-06-28T02:10:54.557709",
     "status": "success"
   },
   "Syria": {
     "csv_file": "datasource/github-certs-syria.csv",
-    "last_updated": "2026-06-27T02:00:43.450570",
+    "last_updated": "2026-06-28T02:10:54.786487",
     "status": "success"
   },
   "Poland": {
     "csv_file": "datasource/github-certs-poland.csv",
-    "last_updated": "2026-06-27T02:01:30.455308",
+    "last_updated": "2026-06-28T02:11:46.640939",
     "status": "success"
   },
   "Tajikistan": {
     "csv_file": "datasource/github-certs-tajikistan.csv",
-    "last_updated": "2026-06-27T02:00:51.074261",
+    "last_updated": "2026-06-28T02:10:55.069305",
     "status": "success"
   },
   "Tanzania": {
     "csv_file": "datasource/github-certs-tanzania.csv",
-    "last_updated": "2026-06-27T02:00:51.427514",
+    "last_updated": "2026-06-28T02:10:55.394445",
     "status": "success"
   },
   "South Africa": {
     "csv_file": "datasource/github-certs-south-africa.csv",
-    "last_updated": "2026-06-27T02:01:03.968922",
+    "last_updated": "2026-06-28T02:11:02.343408",
     "status": "success"
   },
   "Taiwan": {
     "csv_file": "datasource/github-certs-taiwan.csv",
-    "last_updated": "2026-06-27T02:01:58.550386",
+    "last_updated": "2026-06-28T02:12:00.566973",
     "status": "success"
   },
   "Timor Leste": {
     "csv_file": "datasource/github-certs-timor-leste.csv",
-    "last_updated": "2026-06-27T02:00:56.943883",
+    "last_updated": "2026-06-28T02:10:56.326529",
     "status": "success"
   },
   "Tonga": {
     "csv_file": "datasource/github-certs-tonga.csv",
-    "last_updated": "2026-06-27T02:01:04.208054",
+    "last_updated": "2026-06-28T02:11:02.702909",
     "status": "success"
   },
   "Togo": {
     "csv_file": "datasource/github-certs-togo.csv",
-    "last_updated": "2026-06-27T02:01:03.925751",
+    "last_updated": "2026-06-28T02:11:02.676492",
     "status": "success"
   },
   "Trinidad And Tobago": {
     "csv_file": "datasource/github-certs-trinidad-and-tobago.csv",
-    "last_updated": "2026-06-27T02:01:04.237671",
+    "last_updated": "2026-06-28T02:11:03.105182",
     "status": "success"
   },
   "Switzerland": {
     "csv_file": "datasource/github-certs-switzerland.csv",
-    "last_updated": "2026-06-27T02:01:06.676798",
+    "last_updated": "2026-06-28T02:11:18.011595",
     "status": "success"
   },
   "Turkmenistan": {
     "csv_file": "datasource/github-certs-turkmenistan.csv",
-    "last_updated": "2026-06-27T02:01:08.466473",
+    "last_updated": "2026-06-28T02:11:15.696018",
     "status": "success"
   },
   "Tuvalu": {
     "csv_file": "datasource/github-certs-tuvalu.csv",
-    "last_updated": "2026-06-27T02:01:09.286762",
+    "last_updated": "2026-06-28T02:11:15.994822",
     "status": "success"
   },
   "Sweden": {
     "csv_file": "datasource/github-certs-sweden.csv",
-    "last_updated": "2026-06-27T02:01:08.832929",
+    "last_updated": "2026-06-28T02:11:18.118964",
     "status": "success"
   },
   "Uganda": {
     "csv_file": "datasource/github-certs-uganda.csv",
-    "last_updated": "2026-06-27T02:01:21.048283",
+    "last_updated": "2026-06-28T02:11:22.654003",
     "status": "success"
   },
   "Thailand": {
     "csv_file": "datasource/github-certs-thailand.csv",
-    "last_updated": "2026-06-27T02:01:08.878920",
+    "last_updated": "2026-06-28T02:11:15.412118",
     "status": "success"
   },
   "Peru": {
     "csv_file": "datasource/github-certs-peru.csv",
-    "last_updated": "2026-06-27T02:00:55.889600",
+    "last_updated": "2026-06-28T02:10:55.810580",
     "status": "success"
   },
   "Tunisia": {
     "csv_file": "datasource/github-certs-tunisia.csv",
-    "last_updated": "2026-06-27T02:01:22.513367",
+    "last_updated": "2026-06-28T02:11:19.338107",
     "status": "success"
   },
   "United Arab Emirates": {
     "csv_file": "datasource/github-certs-united-arab-emirates.csv",
-    "last_updated": "2026-06-27T02:01:34.316797",
+    "last_updated": "2026-06-28T02:11:39.222179",
     "status": "success"
   },
   "Uruguay": {
     "csv_file": "datasource/github-certs-uruguay.csv",
-    "last_updated": "2026-06-27T02:01:31.836249",
+    "last_updated": "2026-06-28T02:11:25.557101",
     "status": "success"
   },
   "Vanuatu": {
     "csv_file": "datasource/github-certs-vanuatu.csv",
-    "last_updated": "2026-06-27T02:01:26.558039",
+    "last_updated": "2026-06-28T02:11:26.014278",
     "status": "success"
   },
   "Singapore": {
     "csv_file": "datasource/github-certs-singapore.csv",
-    "last_updated": "2026-06-27T02:01:12.580703",
+    "last_updated": "2026-06-28T02:11:17.132241",
     "status": "success"
   },
   "Vatican City": {
     "csv_file": "datasource/github-certs-vatican-city.csv",
-    "last_updated": "2026-06-27T02:01:27.183914",
+    "last_updated": "2026-06-28T02:11:26.392014",
     "status": "success"
   },
   "Venezuela": {
     "csv_file": "datasource/github-certs-venezuela.csv",
-    "last_updated": "2026-06-27T02:01:27.488208",
+    "last_updated": "2026-06-28T02:11:26.407717",
     "status": "success"
   },
   "Yemen": {
     "csv_file": "datasource/github-certs-yemen.csv",
-    "last_updated": "2026-06-27T02:01:37.237370",
+    "last_updated": "2026-06-28T02:11:26.719286",
     "status": "success"
   },
   "Uzbekistan": {
     "csv_file": "datasource/github-certs-uzbekistan.csv",
-    "last_updated": "2026-06-27T02:01:32.170031",
+    "last_updated": "2026-06-28T02:11:25.864420",
     "status": "success"
   },
   "Zambia": {
     "csv_file": "datasource/github-certs-zambia.csv",
-    "last_updated": "2026-06-27T02:01:47.198411",
+    "last_updated": "2026-06-28T02:11:28.515700",
     "status": "success"
   },
   "Turkey": {
     "csv_file": "datasource/github-certs-turkey.csv",
-    "last_updated": "2026-06-27T02:01:25.818521",
+    "last_updated": "2026-06-28T02:11:19.994091",
     "status": "success"
   },
   "Zimbabwe": {
     "csv_file": "datasource/github-certs-zimbabwe.csv",
-    "last_updated": "2026-06-27T02:01:44.095850",
+    "last_updated": "2026-06-28T02:11:34.670052",
     "status": "success"
   },
   "Vietnam": {
     "csv_file": "datasource/github-certs-vietnam.csv",
-    "last_updated": "2026-06-27T02:01:57.419450",
+    "last_updated": "2026-06-28T02:11:53.686312",
     "status": "success"
   },
   "Ukraine": {
     "csv_file": "datasource/github-certs-ukraine.csv",
-    "last_updated": "2026-06-27T02:01:53.595985",
+    "last_updated": "2026-06-28T02:11:55.389263",
     "status": "success"
   },
   "Sri Lanka": {
     "csv_file": "datasource/github-certs-sri-lanka.csv",
-    "last_updated": "2026-06-27T02:01:23.292161",
+    "last_updated": "2026-06-28T02:11:26.800087",
     "status": "success"
   },
   "Spain": {
     "csv_file": "datasource/github-certs-spain.csv",
-    "last_updated": "2026-06-27T02:01:58.997015",
+    "last_updated": "2026-06-28T02:11:51.854663",
     "status": "success"
   },
   "Brazil": {
     "csv_file": "datasource/github-certs-brazil.csv",
-    "last_updated": "2026-06-27T01:58:10.496362",
+    "last_updated": "2026-06-28T02:08:35.326349",
     "status": "success"
   },
   "United Kingdom": {
     "csv_file": "datasource/github-certs-united-kingdom.csv",
-    "last_updated": "2026-06-27T02:01:52.279374",
+    "last_updated": "2026-06-28T02:11:47.216384",
     "status": "success"
   },
   "United States": {
     "csv_file": "datasource/github-certs-united-states.csv",
-    "last_updated": "2026-06-27T02:02:10.183831",
+    "last_updated": "2026-06-28T02:12:00.580419",
     "status": "success"
   },
   "India": {
     "csv_file": "datasource/github-certs-india.csv",
-    "last_updated": "2026-06-27T01:59:44.309378",
+    "last_updated": "2026-06-28T02:10:05.824008",
     "status": "success"
   }
 }
