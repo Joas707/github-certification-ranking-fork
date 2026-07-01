@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: June 30, 2026 at 02:08 UTC
+> Last updated: July 01, 2026 at 02:14 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -11,7 +11,7 @@
 | 🥉 #3 | [Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges) | 17 | SoftwareOne | Poland |
 | #4 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 16 | Delta-N<br>Xebia<br><br>Xebia | Netherlands<br>Netherlands<br>Netherlands<br>Netherlands |
 | #5 | [Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 15 | Xebia | Netherlands |
-| #6 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | <br>Xebia<br>Avanade<br>Eficode | Greece<br>Netherlands<br>Belgium<br>Germany |
+| #6 | [Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | Xebia<br>Eficode | Netherlands<br>Germany |
 | #7 | [Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges) | 13 | Transition Technologies PSC<br>Solidify AB<br> | Poland<br>Estonia<br>Austria |
 | #8 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Xebia<br>Delta-N<br>Xebia<br>Eficode | Netherlands<br>Netherlands<br>Germany<br>Finland |
 | #9 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 11 | Cluster Reply GmbH<br>Xebia<br>Solidify Eficode | Germany<br>Netherlands<br>Sweden |
@@ -25,7 +25,7 @@
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 144 | 10 |
 | 🥈 #2 | Delta-N | 65 | 4 |
-| 🥉 #3 | Avanade | 52 | 3 |
+| 🥉 #3 | Avanade | 38 | 2 |
 | #4 | SoftwareOne | 27 | 2 |
 | #5 | Eficode | 26 | 2 |
 
@@ -35,19 +35,19 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1067 | 758 |
-| 🥈 #2 | Netherlands | 664 | 313 |
-| 🥉 #3 | Spain | 603 | 457 |
-| #4 | Germany | 474 | 345 |
-| #5 | Poland | 470 | 294 |
+| 🥇 #1 | United Kingdom | 1062 | 757 |
+| 🥈 #2 | Netherlands | 665 | 314 |
+| 🥉 #3 | Spain | 591 | 454 |
+| #4 | Germany | 478 | 345 |
+| #5 | Poland | 469 | 294 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,150
-- **Total Badges Earned**: 6,010
-- **Average Badges per User**: 1.45
+- **Total Certified Users**: 4,134
+- **Total Badges Earned**: 5,958
+- **Average Badges per User**: 1.44
 - **Highest Badge Count**: 19
 
 ---
