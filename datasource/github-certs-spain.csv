@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Samuel,,Osorio Calvo,1,/users/samuel-osorio-calvo/badges
-Francisco,,Calvo Vicente,6,/users/fcalvov/badges
+Francisco,,Calvo Vicente,0,/users/fcalvov/badges
 Francisco,,Cosin,3,/users/fcosin/badges
 Juanjo,,Carmena Ayuso,1,/users/juanjo-carmena-ayuso/badges
 David,,Oliva Paredes,1,/users/david-oliva-paredes/badges
@@ -231,7 +231,7 @@ Jose Carlos,,Campanero Ortiz,4,/users/jose-carlos-campanero-ortiz/badges
 Alvaro,,Gonzalez Sayago,1,/users/alvaro-gonzalez-sayago/badges
 Martín,,Baladrón Fernández,1,/users/martin-baladron-fernandez.cf05d964/badges
 Pablo José,,Mesa Pérez,1,/users/pablo-jose-mesa-perez/badges
-Gisela,,Torres,3,/users/gisela-torres.2631a775/badges
+Gisela,,Torres,0,/users/gisela-torres.2631a775/badges
 Angelika,,Krolikowska Szwaj,2,/users/angelika-krolikowska-szwaj/badges
 Quim,,Alborch López,1,/users/quimalborch/badges
 Armando,,Martinez San Jose,1,/users/armando-martinez-san-jose/badges
@@ -248,7 +248,7 @@ Pablo,,Uceda Fuentes,1,/users/pablo-uceda-fuentes.upo/badges
 Jorge,,Bernal Segura,3,/users/jorge-bernal-segura/badges
 Ismael,,García,1,/users/ismael-garcia.2c940914/badges
 Jose,Manuel,Cuervo Muñoz,1,/users/j_cuervom/badges
-Raúl,(Dibildos),González,5,/users/raul-gonzalez.a95ba674/badges
+Raúl,(Dibildos),González,0,/users/raul-gonzalez.a95ba674/badges
 Guillermo,,Rodriguez-Jurado,2,/users/guillermo-rodriguez-jurado/badges
 Alberto,,Blanco Haddad,3,/users/alberto-blanco-haddad/badges
 Patcharida,,Pudpadee,1,/users/patcharida-pudpadee/badges
@@ -271,7 +271,7 @@ Víctor,,Viloria Vázquez,1,/users/victor-viloria-vazquez/badges
 Angel Manuel,,Caballero González,1,/users/angel-manuel-caballero-gonzalez/badges
 Rubén,,Maldonado Fernández,1,/users/ruben-maldonado-fernandez/badges
 Alberto,,Hermida,1,/users/alberto-hermida/badges
-David,,Hernández Díez,0,/users/david-hernandez-diez/badges
+David,,Hernández Díez,2,/users/david-hernandez-diez/badges
 José,,Rodríguez Céspedes,1,/users/jose-rodriguez-cespedes/badges
 Raúl,,Calvo Gutiérrez,1,/users/raul-calvo-gutierrez/badges
 Hector,,Blasco Anteportamlatinam,2,/users/hector-blasco-anteportamlatinam/badges
@@ -323,7 +323,7 @@ Raúl,,Martín Rigor,1,/users/raul-martin-rigor/badges
 Edgar Jesús,,Huerta Meza,1,/users/edgar-jesus-huerta-meza/badges
 Gabriel,Machado,Amorim,1,/users/gmamorim/badges
 Rafael,,Galante Gutiérrez,1,/users/ragalgut/badges
-Grzegorz,,Mazur,0,/users/grzegorz-mazur.d19fc0fc/badges
+Grzegorz,,Mazur,1,/users/grzegorz-mazur.d19fc0fc/badges
 José antonio,,Carretero borreguero,1,/users/jose-antonio-carretero-borreguero/badges
 Ángel,,Mac Donald Gainza,1,/users/angel-mac-donald-gainza/badges
 Carlos,,Gimeno Ortiz,1,/users/carlos-gimeno-ortiz/badges
