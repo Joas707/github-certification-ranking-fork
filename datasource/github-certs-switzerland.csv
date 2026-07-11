@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Oskar,Malte,Arden,3,/users/oskar-dorfler/badges
+Oskar,Malte,Arden,0,/users/oskar-dorfler/badges
 Stefan,,Schmid,0,/users/sschmid/badges
 Pascal,,Stalder,1,/users/pascal-stalder/badges
 Antoine,,Combremont,2,/users/antoine-combremont/badges
@@ -17,7 +17,7 @@ David,,Schmid,1,/users/david-schmid.b2083e96/badges
 Lucas,,Martins,1,/users/lucas-martins.c9341fc0/badges
 Alex,,Sachelarescu,1,/users/alex-sachelarescu/badges
 Severin,,Lindenmann,1,/users/severin-lindenmann.be32642c/badges
-Flavia,,Conti Rossini,0,/users/flaviacontirossini/badges
+Flavia,,Conti Rossini,1,/users/flaviacontirossini/badges
 Michel,,Stadelmann,1,/users/michel-stadelmann/badges
 Lazar Marian,,Brostean,1,/users/lazar-marian-brostean/badges
 Antonios,,Koskinas,1,/users/antonios-koskinas/badges
