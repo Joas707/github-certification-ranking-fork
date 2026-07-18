@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: July 17, 2026 at 01:29 UTC
+> Last updated: July 18, 2026 at 01:21 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1065 | 758 |
+| 🥇 #1 | United Kingdom | 1064 | 757 |
 | 🥈 #2 | Netherlands | 671 | 314 |
-| 🥉 #3 | Spain | 605 | 457 |
-| #4 | Germany | 481 | 348 |
+| 🥉 #3 | Spain | 611 | 459 |
+| #4 | Germany | 486 | 350 |
 | #5 | Poland | 478 | 296 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,155
-- **Total Badges Earned**: 6,038
+- **Total Certified Users**: 4,149
+- **Total Badges Earned**: 6,030
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 21
 
