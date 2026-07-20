@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Samuel,,Osorio Calvo,1,/users/samuel-osorio-calvo/badges
 Francisco,,Calvo Vicente,6,/users/fcalvov/badges
-Francisco,,Cosin,3,/users/fcosin/badges
+Francisco,,Cosin,0,/users/fcosin/badges
 Juanjo,,Carmena Ayuso,1,/users/juanjo-carmena-ayuso/badges
 David,,Oliva Paredes,1,/users/david-oliva-paredes/badges
 Margarita,,Sanz,6,/users/margarita-sanz.8b60fc23/badges
@@ -247,7 +247,7 @@ Pablo,,Uceda Fuentes,1,/users/pablo-uceda-fuentes.upo/badges
 Jorge,,Bernal Segura,3,/users/jorge-bernal-segura/badges
 Ismael,,García,1,/users/ismael-garcia.2c940914/badges
 Jose,Manuel,Cuervo Muñoz,1,/users/j_cuervom/badges
-Raúl,(Dibildos),González,0,/users/raul-gonzalez.a95ba674/badges
+Raúl,(Dibildos),González,5,/users/raul-gonzalez.a95ba674/badges
 Guillermo,,Rodriguez-Jurado,2,/users/guillermo-rodriguez-jurado/badges
 Alberto,,Blanco Haddad,3,/users/alberto-blanco-haddad/badges
 Patcharida,,Pudpadee,1,/users/patcharida-pudpadee/badges
@@ -296,13 +296,13 @@ Alejandro,,Catalán Suárez,1,/users/alejandro-catalan-suarez/badges
 Miguel,,Fernández Corral,5,/users/miguel-fernandez-corral/badges
 Anzhela,,Kurtalieva Likinova,1,/users/angelak/badges
 Jose Luis,,Carrillo Aguilar,4,/users/joselcaguilar/badges
-Victor,Manuel,Varela,3,/users/vmvarela/badges
+Victor,Manuel,Varela,0,/users/vmvarela/badges
 Alberto,,de Manuel,1,/users/alberto-de-manuel/badges
 Mario,,Aguilera,1,/users/mario-aguilera.5288c784/badges
 Jesus,,Redondo,1,/users/jesus-redondo.f172940f/badges
 Alfonso,,Palomino Romero,1,/users/alfonso-palomino-romero.2e53f689/badges
 Miguel,,Bayon,1,/users/miguelbayon/badges
-Roberto,,Arocha,2,/users/roberto-arocha/badges
+Roberto,,Arocha,0,/users/roberto-arocha/badges
 Mario,,Rodríguez Hernández,5,/users/mario-rodriguez-hernandez/badges
 Jorge,,Quevedo Duran,3,/users/jorge-quevedo-duran/badges
 Javier,,Orbe Díez,1,/users/orbe/badges
@@ -331,7 +331,7 @@ Carlos,,Hernandez-Bueno,1,/users/carlos-hernandez-bueno/badges
 Priscila,,Rodriguez,3,/users/priscila-rodriguez.4a5c315c/badges
 Hugo Andrés,,Herrera de Miguel,1,/users/hugo-andres-herrera/badges
 Jesús,,del Castillo López,1,/users/jesus-del-castillo-lopez/badges
-Miguel,Angel,Sanchez Marti,0,/users/miguel-angel-sanchez-marti/badges
+Miguel,Angel,Sanchez Marti,3,/users/miguel-angel-sanchez-marti/badges
 Daniel,,Martinez Madrid,2,/users/daniel-martinez-madrid/badges
 Alberto Carlos,,Peinado Santana,1,/users/alberto-carlos-peinado-santana.0c89e931/badges
 Yana,,Tolstobrova,1,/users/yana-tolstobrova/badges
