@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: July 20, 2026 at 01:30 UTC
+> Last updated: July 21, 2026 at 01:27 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 15 | Xebia | Netherlands |
 | #8 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | <br>Xebia<br>Avanade<br>Eficode | Greece<br>Netherlands<br>Belgium<br>Germany |
 | #9 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges) | 13 | Xebia<br>Transition Technologies PSC<br>Solidify AB<br> | Netherlands<br>Poland<br>Estonia<br>Austria |
-| #10 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Delta-N<br>Xebia<br>Eficode | Netherlands<br>Germany<br>Finland |
+| #10 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Delta-N<br>Eficode | Netherlands<br>Finland |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Xebia | 126 | 8 |
+| 🥇 #1 | Xebia | 114 | 7 |
 | 🥈 #2 | Delta-N | 67 | 4 |
 | 🥉 #3 | Avanade | 56 | 3 |
 | #4 | Eficode | 26 | 2 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1061 | 757 |
-| 🥈 #2 | Netherlands | 672 | 314 |
-| 🥉 #3 | Spain | 603 | 456 |
-| #4 | Germany | 485 | 349 |
-| #5 | Poland | 478 | 296 |
+| 🥇 #1 | United Kingdom | 1065 | 758 |
+| 🥈 #2 | Netherlands | 669 | 313 |
+| 🥉 #3 | Spain | 607 | 458 |
+| #4 | Poland | 477 | 296 |
+| #5 | Germany | 462 | 344 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,146
-- **Total Badges Earned**: 6,028
+- **Total Certified Users**: 4,141
+- **Total Badges Earned**: 5,997
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 22
 
