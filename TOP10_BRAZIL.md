@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: July 26, 2026 at 01:31 UTC
+> Last updated: July 27, 2026 at 01:50 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,8 +8,8 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 21 | Avanade | Brazil |
 | 🥈 #2 | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
-| 🥉 #3 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 19 | Avanade | Brazil |
-| #4 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Gabriel Santos Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 18 | Avanade<br>TD SYNNEX | Brazil<br>Brazil |
+| 🥉 #3 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 19 | Avanade<br>TD SYNNEX | Brazil<br>Brazil |
+| #4 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | Avanade | Brazil |
 | #5 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 17 | Avanade<br>Avanade | Brazil<br>Brazil |
 | #6 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges)<br>[Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 16 | Avanade<br>Avanade | Brazil<br>Brazil |
 | #7 | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 15 | Avanade<br>Avanade | Brazil<br>Brazil |
@@ -25,7 +25,7 @@
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Avanade | 227 | 14 |
 | 🥈 #2 | ilegra | 26 | 2 |
-| 🥉 #3 | TD SYNNEX | 18 | 1 |
+| 🥉 #3 | TD SYNNEX | 19 | 1 |
 | #4 | NTT DATA | 14 | 1 |
 
 ---

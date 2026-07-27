@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: July 26, 2026 at 01:32 UTC
+> Last updated: July 27, 2026 at 01:51 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges) | 13 | Xebia<br>Xebia<br>Transition Technologies PSC<br>Solidify AB<br> | Netherlands<br>Netherlands<br>Poland<br>Estonia<br>Austria |
 | #8 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Delta-N<br>Xebia<br>Eficode | Netherlands<br>Germany<br>Finland |
 | #9 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 11 | Cluster Reply GmbH<br>Solidify Eficode | Germany<br>Sweden |
-| #10 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Pawel Stuczynski](https://www.credly.com/users/pawel-stuczynski/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>SoftwareOne<br>Xebia | Poland<br>Poland<br>Netherlands |
+| #10 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Pawel Stuczynski](https://www.credly.com/users/pawel-stuczynski/badges)<br>[Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>SoftwareOne<br>GitHub<br>Xebia | Poland<br>Poland<br>Netherlands<br>Netherlands |
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1060 | 757 |
-| 🥈 #2 | Netherlands | 667 | 313 |
+| 🥇 #1 | United Kingdom | 1049 | 754 |
+| 🥈 #2 | Netherlands | 676 | 313 |
 | 🥉 #3 | Spain | 611 | 459 |
-| #4 | Germany | 477 | 347 |
-| #5 | Poland | 469 | 294 |
+| #4 | Germany | 486 | 349 |
+| #5 | Poland | 477 | 296 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,143
-- **Total Badges Earned**: 6,014
+- **Total Certified Users**: 4,151
+- **Total Badges Earned**: 6,036
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 22
 
