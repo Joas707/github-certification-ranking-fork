@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: July 27, 2026 at 01:51 UTC
+> Last updated: July 28, 2026 at 01:24 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -13,7 +13,7 @@
 | #5 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 16 | Xebia<br>Xebia | Netherlands<br>Netherlands |
 | #6 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | <br>Xebia<br>Avanade<br>Eficode | Greece<br>Netherlands<br>Belgium<br>Germany |
 | #7 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges) | 13 | Xebia<br>Xebia<br>Transition Technologies PSC<br>Solidify AB<br> | Netherlands<br>Netherlands<br>Poland<br>Estonia<br>Austria |
-| #8 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Delta-N<br>Xebia<br>Eficode | Netherlands<br>Germany<br>Finland |
+| #8 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Revoltaged<br>Xebia<br>Eficode | Netherlands<br>Germany<br>Finland |
 | #9 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 11 | Cluster Reply GmbH<br>Solidify Eficode | Germany<br>Sweden |
 | #10 | [Filip Bialowas](https://www.credly.com/users/filip-bialowas/badges)<br>[Pawel Stuczynski](https://www.credly.com/users/pawel-stuczynski/badges)<br>[Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges)<br>[Virginia Hamra](https://www.credly.com/users/virginia-hamra-2/badges) | 10 | <br>SoftwareOne<br>GitHub<br>Xebia | Poland<br>Poland<br>Netherlands<br>Netherlands |
 
@@ -24,8 +24,8 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 151 | 10 |
-| 🥈 #2 | Delta-N | 67 | 4 |
-| 🥉 #3 | Avanade | 56 | 3 |
+| 🥈 #2 | Avanade | 56 | 3 |
+| 🥉 #3 | Delta-N | 55 | 3 |
 | #4 | SoftwareOne | 27 | 2 |
 | #5 | Eficode | 26 | 2 |
 
@@ -35,19 +35,19 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1049 | 754 |
-| 🥈 #2 | Netherlands | 676 | 313 |
-| 🥉 #3 | Spain | 611 | 459 |
-| #4 | Germany | 486 | 349 |
-| #5 | Poland | 477 | 296 |
+| 🥇 #1 | United Kingdom | 1057 | 755 |
+| 🥈 #2 | Netherlands | 674 | 313 |
+| 🥉 #3 | Spain | 606 | 457 |
+| #4 | Germany | 481 | 348 |
+| #5 | Poland | 477 | 297 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,151
+- **Total Certified Users**: 4,147
 - **Total Badges Earned**: 6,036
-- **Average Badges per User**: 1.45
+- **Average Badges per User**: 1.46
 - **Highest Badge Count**: 22
 
 ---
