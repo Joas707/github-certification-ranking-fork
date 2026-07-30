@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: July 29, 2026 at 01:26 UTC
+> Last updated: July 30, 2026 at 01:18 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Avanade<br>Avanade<br>Xebia | Brazil<br>Brazil<br>United States |
 | #8 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges)<br>[🧡 Davi Santos](https://www.credly.com/users/davisantos/badges) | 14 | Avanade<br>NTT DATA<br><br>Avanade | Brazil<br>Brazil<br>Argentina<br>Brazil |
 | #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges)<br>[Yan Borowski Machado](https://www.credly.com/users/yan-borowski-machado/badges) | 13 | ilegra<br>ilegra<br>Avanade | Brazil<br>Brazil<br>Brazil |
-| #10 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | Avanade<br><br>Xebia | Brazil<br>United States<br>United States |
+| #10 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Gisele Melo](https://www.credly.com/users/gisele-melo/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | Avanade<br>Avanade<br><br>Xebia | Brazil<br>Brazil<br>United States<br>United States |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 228 | 14 |
+| 🥇 #1 | Avanade | 240 | 15 |
 | 🥈 #2 | Xebia | 64 | 4 |
 | 🥉 #3 | ilegra | 26 | 2 |
 | #4 | TD SYNNEX | 19 | 1 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 4013 | 2823 |
-| 🥈 #2 | Brazil | 2098 | 1524 |
-| 🥉 #3 | Canada | 725 | 550 |
-| #4 | Mexico | 561 | 447 |
-| #5 | Peru | 494 | 415 |
+| 🥇 #1 | United States | 4014 | 2823 |
+| 🥈 #2 | Brazil | 2106 | 1526 |
+| 🥉 #3 | Canada | 735 | 552 |
+| #4 | Mexico | 563 | 448 |
+| #5 | Peru | 492 | 414 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,864
-- **Total Badges Earned**: 9,212
+- **Total Certified Users**: 6,873
+- **Total Badges Earned**: 9,242
 - **Average Badges per User**: 1.34
 - **Highest Badge Count**: 21
 

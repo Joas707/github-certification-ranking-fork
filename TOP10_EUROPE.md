@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: July 29, 2026 at 01:26 UTC
+> Last updated: July 30, 2026 at 01:18 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,7 +8,7 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 22 | Avanade | France |
 | 🥈 #2 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Xebia<br>Delta-N<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>France |
-| 🥉 #3 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | Delta-N<br><br>Microsoft | Netherlands<br>Netherlands<br>Belgium |
+| 🥉 #3 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges) | 18 | Delta-N<br> | Netherlands<br>Netherlands |
 | #4 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 17 | Delta-N<br>SoftwareOne<br>Xebia | Netherlands<br>Poland<br>Netherlands |
 | #5 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 16 | Xebia<br>Xebia | Netherlands<br>Netherlands |
 | #6 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | <br>Xebia<br>Avanade<br>Eficode | Greece<br>Netherlands<br>Belgium<br>Germany |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1062 | 757 |
-| 🥈 #2 | Netherlands | 677 | 314 |
-| 🥉 #3 | Spain | 600 | 456 |
-| #4 | Germany | 483 | 347 |
+| 🥇 #1 | United Kingdom | 1067 | 758 |
+| 🥈 #2 | Netherlands | 673 | 313 |
+| 🥉 #3 | Spain | 611 | 459 |
+| #4 | Germany | 489 | 349 |
 | #5 | Poland | 478 | 297 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,135
-- **Total Badges Earned**: 5,989
+- **Total Certified Users**: 4,159
+- **Total Badges Earned**: 6,050
 - **Average Badges per User**: 1.45
 - **Highest Badge Count**: 22
 
