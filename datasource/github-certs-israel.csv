@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Daniel,,Cohen,3,/users/daniel-cohen.f0144a1f/badges
 Uri,,Menuhin,2,/users/uri-menuhin.b74b6137/badges
-Roni,,Frenkel,1,/users/roni-frenkel/badges
+Roni,,Frenkel,0,/users/roni-frenkel/badges
 Ayelet,,Lev,0,/users/ayelet-lev.f7c3a6b6/badges
 Katie,,Golan,0,/users/katie-golan/badges
 Salame,,Azbarka,1,/users/salame-azbarka/badges
@@ -12,7 +12,7 @@ Or,,Shohat,2,/users/or-shohat/badges
 Amit,,Nahmias,1,/users/amit-nahmias/badges
 maayan,,assraf,1,/users/maayan-assraf/badges
 Dor,,Kedem,1,/users/dor-kedem.4892b17a/badges
-Lior,,Yantovski,2,/users/lior-yantovski/badges
+Lior,,Yantovski,1,/users/lior-yantovski/badges
 Nir,,Chen,1,/users/nir-chen/badges
 Lejb,,Golovatyi,1,/users/lejb-golovatyi/badges
 Lior,,Dux,5,/users/lior-dux/badges
@@ -24,7 +24,7 @@ Baruch,,Bazak,2,/users/baruch-bazak/badges
 Artur,,Vel,1,/users/artur-vel/badges
 Yuri,,Sokolov,2,/users/yuri-sokolov.b6b3bc76/badges
 Ron,,Hadad,1,/users/ron-hadad/badges
-dan,,arbib,3,/users/dan-arbib/badges
+dan,,arbib,0,/users/dan-arbib/badges
 Eran,,Braylovski,4,/users/eran-braylovski/badges
 Itzhak,,Nachum,1,/users/itzhak-nachum/badges
 Nadav,,Ben Haim,2,/users/nadav-ben-haim/badges
