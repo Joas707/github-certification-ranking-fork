@@ -1,6 +1,6 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: August 02, 2026 at 01:31 UTC
+> Last updated: August 03, 2026 at 01:32 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12233 | 10000 |
-| 🥈 #2 | Japan | 541 | 384 |
+| 🥇 #1 | India | 12231 | 10000 |
+| 🥈 #2 | Japan | 536 | 382 |
 | 🥉 #3 | Sri Lanka | 299 | 283 |
 | #4 | Singapore | 298 | 251 |
 | #5 | China | 234 | 222 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,188
-- **Total Badges Earned**: 14,865
+- **Total Certified Users**: 12,181
+- **Total Badges Earned**: 14,854
 - **Average Badges per User**: 1.22
 - **Highest Badge Count**: 20
 
