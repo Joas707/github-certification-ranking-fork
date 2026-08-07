@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Juha,,Luoto,2,/users/juha-luoto/badges
 Miska,,Braun,7,/users/miskabraun/badges
 Pekka,,Sahi,6,/users/pekka-sahi.d4158f93/badges
 Toni,,Laakso,12,/users/toni-laakso/badges
@@ -16,7 +17,7 @@ Lauri,,Suomalainen,1,/users/lauri-suomalainen/badges
 Duc Anh,,Pham,1,/users/duc-anh-pham.d28e2427/badges
 Aki,,Roivanen,0,/users/aki-roivanen/badges
 Kristiina,,Kumila,1,/users/kristiina-kumila/badges
-Juha,,Karvonen,0,/users/juha-karvonen/badges
+Juha,,Karvonen,2,/users/juha-karvonen/badges
 Jesse,,Karsimus,1,/users/jesse-karsimus/badges
 Heidi,,Koivisto,5,/users/heidi-koivisto.dd513e2c/badges
 Jere,,Talvitie,1,/users/jere-talvitie/badges
@@ -30,7 +31,7 @@ Nam,,Phan,1,/users/nam-phan.62eedd14/badges
 Jukka,,Paasonen,1,/users/jukka-paasonen/badges
 Maija,,Poppanen,2,/users/maija-poppanen/badges
 Ville,,Hokkinen,1,/users/ville-hokkinen/badges
-Antti,,Halmetoja,2,/users/antti-halmetoja/badges
+Antti,,Halmetoja,0,/users/antti-halmetoja/badges
 Hannu,,Alamäki,1,/users/hannu-alamaki/badges
 Janne,,Suominen,1,/users/janne-suominen.9ff4369e/badges
 Antti,,Humalamäki,1,/users/antti-humalamaki.6f086a5b/badges
@@ -61,7 +62,6 @@ Rasmus,,Paltschik,1,/users/rasmus-paltschik/badges
 Taige,,Wang,1,/users/taigewang/badges
 Joonas,,Venäläinen,1,/users/joonas-venalainen/badges
 Dinesh Singh,,Bisht,1,/users/dinesh-singh-bisht.0f6d30da/badges
-Juha,,Luoto,1,/users/juha-luoto/badges
 Emil,,Heliste,1,/users/emil-heliste/badges
 Filip,,Norrgård,1,/users/filip-norrgard/badges
 Saara,,Pekkala,4,/users/saara-pekkala/badges
