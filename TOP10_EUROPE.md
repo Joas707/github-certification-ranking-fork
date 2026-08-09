@@ -1,13 +1,13 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: August 08, 2026 at 00:47 UTC
+> Last updated: August 09, 2026 at 00:49 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 22 | Avanade | France |
-| 🥈 #2 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Xebia<br>Delta-N<br>Delta-N<br>Xebia<br> | Netherlands<br>Netherlands<br>Netherlands<br>Netherlands<br>France |
+| 🥈 #2 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Xebia<br>Delta-N<br>Delta-N<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>Netherlands<br>France |
 | 🥉 #3 | [Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | <br>Microsoft | Netherlands<br>Belgium |
 | #4 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 17 | Delta-N<br>SoftwareOne<br>Xebia | Netherlands<br>Poland<br>Netherlands |
 | #5 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 16 | Xebia<br>Xebia | Netherlands<br>Netherlands |
@@ -25,7 +25,7 @@
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 151 | 10 |
 | 🥈 #2 | Delta-N | 57 | 3 |
-| 🥉 #3 | Avanade | 36 | 2 |
+| 🥉 #3 | Avanade | 56 | 3 |
 | #4 | SoftwareOne | 27 | 2 |
 | #5 | Eficode | 26 | 2 |
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1071 | 759 |
-| 🥈 #2 | Netherlands | 674 | 312 |
-| 🥉 #3 | Spain | 608 | 458 |
-| #4 | Germany | 490 | 349 |
-| #5 | Poland | 478 | 297 |
+| 🥇 #1 | United Kingdom | 1058 | 755 |
+| 🥈 #2 | Netherlands | 679 | 314 |
+| 🥉 #3 | Spain | 610 | 457 |
+| #4 | Poland | 477 | 297 |
+| #5 | Germany | 473 | 346 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,159
-- **Total Badges Earned**: 6,069
+- **Total Certified Users**: 4,142
+- **Total Badges Earned**: 6,028
 - **Average Badges per User**: 1.46
 - **Highest Badge Count**: 22
 
