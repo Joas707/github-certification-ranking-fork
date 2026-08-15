@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Hector,,Delgado,8,/users/hector-delgado/badges
 María de los Angeles,,Cariño,1,/users/maria-de-los-angeles-carino/badges
 Carlos Manuel,,García,1,/users/carlos-manuel-garcia.d5fb7452/badges
-Hector,,Delgado,7,/users/hector-delgado/badges
 Jose I,,Toledano Morales,1,/users/jose-i-toledano-morales/badges
 David,,Medina,3,/users/david-medina.1e1b2210/badges
 Fátima,,Torres,2,/users/fatima-torres.962f6c65/badges
@@ -125,7 +125,7 @@ Miguel,,Martínez,1,/users/miguelmtz/badges
 Hugo,,Esparza Castañeda,1,/users/hugoesparzac/badges
 María,Emilia,Ramírez Gómez,1,/users/maria-emilia-ramirez/badges
 Alejandra,,Gorriz,1,/users/alejandra-gorriz/badges
-Isai,,Nieves Cesmas,2,/users/isai-nieves-cesmas/badges
+Isai,,Nieves Cesmas,0,/users/isai-nieves-cesmas/badges
 Enrique,,Chavez Romero,1,/users/enrique-chavez-romero.1806cae3/badges
 Manuel Ivan,,Salgado Garduño,1,/users/manuel-ivan-salgado-garduno/badges
 Christian Daniel,,Arzaluz Tellez,1,/users/christian-daniel-arzaluz-tellez/badges
@@ -261,7 +261,7 @@ Julio Cesar,,Fermin Jimenez,1,/users/julio-fermin/badges
 Fernando Mauricio,,Chavarría Reyes,1,/users/fernando-mauricio-chavarria-reyes/badges
 Liliana,,Fernández,1,/users/liliana-fernandez.d52290af/badges
 Adrian,,Hernandez Reyes,1,/users/adrian-hernandez-reyes.62ef664c/badges
-Erick Daniel,,Ramirez Martinez,3,/users/erick-daniel-ramirez-martinez/badges
+Erick Daniel,,Ramirez Martinez,0,/users/erick-daniel-ramirez-martinez/badges
 Luis,Angel,Vazquez Lara,1,/users/luis-angel-vazquez-lara.e91a76ac/badges
 Alejandro,,Robles,1,/users/alejandro-robles.1fb85e6d/badges
 Aldo,,Garcia,1,/users/aldo-garcia.4871a1ce/badges
@@ -306,7 +306,7 @@ Fidel,,Soria,1,/users/fidel-soria/badges
 ISAAC,ISAIAS,LOPEZ LOPEZ,1,/users/isaac-isaias-lopez-lopez/badges
 Evangelina,,Cruz Bañuelos,1,/users/evangelina-cruz-banuelos/badges
 Juan,,Aguilera Huerta,1,/users/juan-aguilera-huerta.fbca393a/badges
-Amado,,Demesa,0,/users/amado-demesa/badges
+Amado,,Demesa,3,/users/amado-demesa/badges
 Leonardo,,Zalazar,1,/users/leonardo-zalazar/badges
 Juan Francisco,,Ortega Aguilar,3,/users/juan-francisco-ortega-aguilar/badges
 Ernesto,,Solis Diaz,1,/users/ernesto-solis-diaz/badges

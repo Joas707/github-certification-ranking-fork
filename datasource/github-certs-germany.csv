@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Igor,,Lakhtenkov,8,/users/igor-lakhtenkov.81d2dd0a/badges
+Igor,,Lakhtenkov,9,/users/igor-lakhtenkov.81d2dd0a/badges
 Marko,,Sawall,1,/users/marko-sawall/badges
 Daniel,Richard,Snell,11,/users/daniel-snell.f7bc4ec8/badges
 Harald,,Binkle,5,/users/harald-binkle/badges
@@ -63,7 +63,7 @@ Simon,,Keßler,1,/users/simon-kessler.4331d5e5/badges
 Jacobo,,Azmani,1,/users/jacobo-azmani/badges
 Simon,,Pham,1,/users/simon-pham.11010294/badges
 Oliver,,Pürner,1,/users/oliver-purner/badges
-Marcus,,Fenner,2,/users/mfen/badges
+Marcus,,Fenner,0,/users/mfen/badges
 Noah,,Kleinert,1,/users/noah-kleinert.1ab1cc52/badges
 Leon,,Kling,1,/users/leon-kling/badges
 Patrick,,Parthen,1,/users/patrick-parthen/badges
@@ -233,7 +233,7 @@ Jonas,,Wanninger,1,/users/jonas-wanninger/badges
 Arpit,,bajpai,1,/users/arpit-bajpai.e873fea2/badges
 Milos,,Rujevic,1,/users/milosrujevic/badges
 Gennady,,Solomennikov,2,/users/gennady-solomennikov/badges
-Niko,,Mix,2,/users/nikomix/badges
+Niko,,Mix,0,/users/nikomix/badges
 Florian,,Eckert,5,/users/florian-eckert.f49f0bb4/badges
 Florian,,Stolzmann,1,/users/florian-stolzmann.45280836/badges
 Dario,,Brozovic,1,/users/dario-brozovic.672c1d98/badges
