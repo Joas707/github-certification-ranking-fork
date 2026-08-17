@@ -1,13 +1,13 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: August 16, 2026 at 00:38 UTC
+> Last updated: August 17, 2026 at 00:36 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 20 | Canarys Automations Limited | India |
-| 🥈 #2 | [Kuldeep Saini](https://www.credly.com/users/kuldeep-saini.9be84ec9/badges)<br>[Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 19 | Xebia<br>Xebia | India<br>India |
+| 🥈 #2 | [Kuldeep Saini](https://www.credly.com/users/kuldeep-saini.9be84ec9/badges)<br>[Narasimha Kudva](https://www.credly.com/users/narasimha-kudva.d13f4b52/badges)<br>[Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 19 | Xebia<br>Xebia<br>Xebia | India<br>India<br>India |
 | 🥉 #3 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges)<br>[Nuthi Prathyusha](https://www.credly.com/users/nuthi-prathyusha/badges)<br>[Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges)<br>[Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges)<br>[Vinay C](https://www.credly.com/users/vinay-c.f7b7d8ef/badges) | 18 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India<br>India<br>India |
 | #4 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges)<br>[Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 17 | Xebia<br>Canarys Automations Limited | India<br>India |
 | #5 | [Raghavendra Shirashyad](https://www.credly.com/users/raghavendra-shirashyad/badges) | 16 | Canarys Automations Limited | India |
@@ -24,7 +24,7 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Canarys Automations Limited | 413 | 28 |
-| 🥈 #2 | Xebia | 67 | 4 |
+| 🥈 #2 | Xebia | 86 | 5 |
 | 🥉 #3 | Ivalue Infosolutions Limited<br>XPT Software | 15 | 1<br>1 |
 | #4 | Wipro Limited | 11 | 1 |
 
@@ -34,18 +34,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12242 | 10000 |
-| 🥈 #2 | Japan | 524 | 380 |
+| 🥇 #1 | India | 12240 | 9984 |
+| 🥈 #2 | Japan | 540 | 384 |
 | 🥉 #3 | Sri Lanka | 299 | 283 |
 | #4 | Singapore | 298 | 251 |
-| #5 | China | 233 | 221 |
+| #5 | China | 234 | 222 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,174
-- **Total Badges Earned**: 14,844
+- **Total Certified Users**: 12,173
+- **Total Badges Earned**: 14,878
 - **Average Badges per User**: 1.22
 - **Highest Badge Count**: 20
 
