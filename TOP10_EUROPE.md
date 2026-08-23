@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: August 22, 2026 at 00:35 UTC
+> Last updated: August 23, 2026 at 00:38 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,10 +12,10 @@
 | #4 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 17 | Delta-N<br>Xebia | Netherlands<br>Netherlands |
 | #5 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 16 | Xebia<br>Xebia | Netherlands<br>Netherlands |
 | #6 | [Julien Lebutte](https://www.credly.com/users/julienlebutte/badges) | 15 | Avanade | Belgium |
-| #7 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 14 | <br>Xebia<br>Eficode | Greece<br>Netherlands<br>Germany |
-| #8 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges)<br>[Mathias Olausson](https://www.credly.com/users/mathias-olausson/badges) | 13 | Xebia<br>Xebia<br>Transition Technologies PSC<br>Solidify AB<br>Solidify Eficode<br><br> | Netherlands<br>Netherlands<br>Poland<br>Estonia<br>Sweden<br>Austria<br>Sweden |
-| #9 | [Heidi Koivisto](https://www.credly.com/users/heidi-koivisto.dd513e2c/badges)<br>[Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 12 | Eficode<br>Revoltaged<br>Xebia<br>Eficode | Finland<br>Netherlands<br>Germany<br>Finland |
-| #10 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges) | 11 | Cluster Reply GmbH | Germany |
+| #7 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 14 | <br>Xebia<br>Eficode<br>Eficode | Greece<br>Netherlands<br>Germany<br>Finland |
+| #8 | [Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges)<br>[Mathias Olausson](https://www.credly.com/users/mathias-olausson/badges) | 13 | Xebia<br>Transition Technologies PSC<br>Solidify AB<br>Solidify Eficode<br><br> | Netherlands<br>Poland<br>Estonia<br>Sweden<br>Austria<br>Sweden |
+| #9 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Heidi Koivisto](https://www.credly.com/users/heidi-koivisto.dd513e2c/badges)<br>[Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges) | 12 | Xebia<br>Eficode<br>Revoltaged | Netherlands<br>Finland<br>Netherlands |
+| #10 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Igor Lakhtenkov](https://www.credly.com/users/igor-lakhtenkov.81d2dd0a/badges) | 11 | Cluster Reply GmbH<br> | Germany<br>Germany |
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Xebia | 141 | 9 |
+| 🥇 #1 | Xebia | 128 | 8 |
 | 🥈 #2 | Avanade<br>Delta-N | 57 | 3<br>3 |
-| 🥉 #3 | Eficode | 38 | 3 |
+| 🥉 #3 | Eficode | 40 | 3 |
 | #4 | Microsoft<br>SoftwareOne | 18 | 1<br>1 |
 | #5 | Solidify AB<br>Solidify Eficode<br>Transition Technologies PSC | 13 | 1<br>1<br>1 |
 
@@ -35,19 +35,19 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1071 | 760 |
-| 🥈 #2 | Netherlands | 680 | 315 |
-| 🥉 #3 | Spain | 606 | 455 |
-| #4 | Poland | 483 | 297 |
-| #5 | Germany | 479 | 346 |
+| 🥇 #1 | United Kingdom | 1076 | 761 |
+| 🥈 #2 | Netherlands | 679 | 315 |
+| 🥉 #3 | Spain | 594 | 454 |
+| #4 | Germany | 478 | 347 |
+| #5 | Poland | 470 | 295 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,160
-- **Total Badges Earned**: 6,104
-- **Average Badges per User**: 1.47
+- **Total Certified Users**: 4,158
+- **Total Badges Earned**: 6,081
+- **Average Badges per User**: 1.46
 - **Highest Badge Count**: 22
 
 ---
