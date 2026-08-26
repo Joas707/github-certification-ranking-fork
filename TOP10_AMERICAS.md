@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: August 25, 2026 at 00:37 UTC
+> Last updated: August 26, 2026 at 00:39 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Avanade<br>Avanade<br>Avanade<br>Xebia | Brazil<br>Brazil<br>Brazil<br>United States |
 | #8 | [Climon Galunza](https://www.credly.com/users/climon-galunza/badges)<br>[Davi Santos](https://www.credly.com/users/davisantos/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges) | 14 | Xebia<br>Avanade<br>NTT DATA<br> | United States<br>Brazil<br>Brazil<br>Argentina |
 | #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges)<br>[Yan Borowski Machado](https://www.credly.com/users/yan-borowski-machado/badges) | 13 | ilegra<br>Avanade<br>ilegra<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil |
-| #10 | [Gisele Melo](https://www.credly.com/users/gisele-melo/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | Avanade<br><br>Xebia | Brazil<br>United States<br>United States |
+| #10 | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Gisele Melo](https://www.credly.com/users/gisele-melo/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | CodeCargo<br>Avanade<br><br>Xebia | United States<br>Brazil<br>United States<br>United States |
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 4040 | 2833 |
-| 🥈 #2 | Brazil | 2116 | 1526 |
-| 🥉 #3 | Canada | 728 | 549 |
+| 🥇 #1 | United States | 4043 | 2833 |
+| 🥈 #2 | Brazil | 2117 | 1527 |
+| 🥉 #3 | Canada | 733 | 553 |
 | #4 | Mexico | 564 | 448 |
-| #5 | Peru | 494 | 415 |
+| #5 | Peru | 495 | 416 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,879
-- **Total Badges Earned**: 9,274
+- **Total Certified Users**: 6,886
+- **Total Badges Earned**: 9,288
 - **Average Badges per User**: 1.35
 - **Highest Badge Count**: 21
 
