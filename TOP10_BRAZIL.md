@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: August 26, 2026 at 00:39 UTC
+> Last updated: August 27, 2026 at 05:29 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,7 +14,7 @@
 | #6 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 16 | Avanade | Brazil |
 | #7 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 15 | Avanade<br>Avanade<br>Avanade | Brazil<br>Brazil<br>Brazil |
 | #8 | [Davi Santos](https://www.credly.com/users/davisantos/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges) | 14 | Avanade<br>NTT DATA | Brazil<br>Brazil |
-| #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges)<br>[Yan Borowski Machado](https://www.credly.com/users/yan-borowski-machado/badges) | 13 | ilegra<br>Avanade<br>ilegra<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil |
+| #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 | ilegra<br>Avanade<br>ilegra | Brazil<br>Brazil<br>Brazil |
 | #10 | [Gisele Melo](https://www.credly.com/users/gisele-melo/badges) | 12 | Avanade | Brazil |
 
 ---
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 244 | 15 |
+| 🥇 #1 | Avanade | 231 | 14 |
 | 🥈 #2 | ilegra | 26 | 2 |
 | 🥉 #3 | TD SYNNEX | 19 | 1 |
 | #4 | NTT DATA | 14 | 1 |
@@ -32,9 +32,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,527
-- **Total Badges Earned**: 2,117
-- **Average Badges per User**: 1.39
+- **Total Certified Users**: 1,526
+- **Total Badges Earned**: 2,104
+- **Average Badges per User**: 1.38
 - **Highest Badge Count**: 21
 
 ---
