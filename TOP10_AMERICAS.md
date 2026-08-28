@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: August 27, 2026 at 05:29 UTC
+> Last updated: August 28, 2026 at 07:26 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,7 +14,7 @@
 | #6 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 16 | Avanade | Brazil |
 | #7 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Avanade<br>Avanade<br>Avanade<br>Xebia | Brazil<br>Brazil<br>Brazil<br>United States |
 | #8 | [Climon Galunza](https://www.credly.com/users/climon-galunza/badges)<br>[Davi Santos](https://www.credly.com/users/davisantos/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges) | 14 | Xebia<br>Avanade<br>NTT DATA<br> | United States<br>Brazil<br>Brazil<br>Argentina |
-| #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 | ilegra<br>Avanade<br>ilegra | Brazil<br>Brazil<br>Brazil |
+| #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges)<br>[Yan Borowski Machado](https://www.credly.com/users/yan-borowski-machado/badges) | 13 | ilegra<br>Avanade<br>ilegra<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil |
 | #10 | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Gisele Melo](https://www.credly.com/users/gisele-melo/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | CodeCargo<br>Avanade<br><br>Xebia | United States<br>Brazil<br>United States<br>United States |
 
 ---
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 231 | 14 |
+| 🥇 #1 | Avanade | 244 | 15 |
 | 🥈 #2 | Xebia | 97 | 6 |
 | 🥉 #3 | ilegra | 26 | 2 |
 | #4 | TD SYNNEX | 19 | 1 |
@@ -35,9 +35,9 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 4043 | 2833 |
-| 🥈 #2 | Brazil | 2104 | 1526 |
-| 🥉 #3 | Canada | 738 | 554 |
+| 🥇 #1 | United States | 4046 | 2832 |
+| 🥈 #2 | Brazil | 2119 | 1527 |
+| 🥉 #3 | Canada | 734 | 554 |
 | #4 | Mexico | 564 | 448 |
 | #5 | Peru | 495 | 416 |
 
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,885
-- **Total Badges Earned**: 9,280
+- **Total Certified Users**: 6,883
+- **Total Badges Earned**: 9,289
 - **Average Badges per User**: 1.35
 - **Highest Badge Count**: 21
 
