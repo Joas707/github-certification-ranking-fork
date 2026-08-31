@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 José,,Guzmán,1,/users/jose-guzman.64d1888d/badges
 Luis Esteban,,Oleas Chávez,1,/users/luis-esteban-oleas-chavez/badges
-Joshua,,Sailema,0,/users/joshua-sailema/badges
+Joshua,,Sailema,1,/users/joshua-sailema/badges
 Edwin,,Hernandez,1,/users/edwin-hernandez.db6fde5c/badges
 Stefani,,Castellanos,1,/users/stefani-castellanos/badges
 Keyla,,Munoz,1,/users/keyla-munoz.deac3b11/badges
@@ -33,8 +33,8 @@ Sebastian,,Arias,1,/users/sebastian-arias.916df0d4/badges
 Suany,,Chalan,1,/users/suany-chalan/badges
 Luis,,Barrera,1,/users/luis-barrera.f5ddd665/badges
 Danilo,,Romero,1,/users/danilo-romero.d18f899e/badges
-David,,Becerra,1,/users/david-becerra.f338461c/badges
-Jossue,,Gallardo,1,/users/jossue-gallardo/badges
+David,,Becerra,0,/users/david-becerra.f338461c/badges
+Jossue,,Gallardo,0,/users/jossue-gallardo/badges
 LUIS,,NOLE,1,/users/luis-nole/badges
 Luis Alberto,,Iñiguez Sánchez,1,/users/luis-alberto-iniguez-sanchez/badges
 Sergio Iván,,Ullaguari Alvarado,1,/users/sergio-ivan-ullaguari-alvarado/badges
