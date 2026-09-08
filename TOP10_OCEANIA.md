@@ -1,16 +1,17 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: September 07, 2026 at 01:40 UTC
+> Last updated: September 08, 2026 at 01:49 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Marco Celon](https://www.credly.com/users/marco-celon.53bc8019/badges) | 13 | GitHub | Australia |
-| 🥈 #2 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges)<br>[Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges)<br>[Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | <br><br>Mantel Group | New Zealand<br>New Zealand<br>New Zealand |
-| 🥉 #3 | [Matt Duguid](https://www.credly.com/users/mattduguid/badges) | 4 | Self | New Zealand |
-| #4 | [Andrei Mahalean](https://www.credly.com/users/andrei-mahalean/badges)<br>[Clint Eccleshall](https://www.credly.com/users/clint-eccleshall/badges)<br>[Cristopher Germuts](https://www.credly.com/users/cristopher-germuts/badges)<br>[Hatem Elbakoury](https://www.credly.com/users/hatem-elbakoury.6a5fff8b/badges)<br>[Heidi Pilypas](https://www.credly.com/users/heidi-pilypas/badges)<br>[Igor Petronio Costa Curcino](https://www.credly.com/users/igor-petronio-costa-curcino.d6e8281e/badges)<br>[Jamie Grimwood](https://www.credly.com/users/jamie-grimwood/badges)<br>[Julian Simpson](https://www.credly.com/users/julian-simpson.3b804974/badges)<br>[Matthew Tester](https://www.credly.com/users/matthew-tester/badges)<br>[Roger Chen](https://www.credly.com/users/roger-chen.60d4af13/badges)<br>[Simon Giesemann](https://www.credly.com/users/simon-giesemann/badges)<br>[Sneha Chow](https://www.credly.com/users/sneha-chow/badges)<br>[Suraj Patil](https://www.credly.com/users/suraj-patil.c24326b1/badges)<br>[Waqas Naveed](https://www.credly.com/users/waqas-naveed.98f30518/badges) | 2 | <br><br><br><br><br>GitHub<br><br><br><br>Lab3<br>GitHub<br><br><br> | New Zealand<br>New Zealand<br>New Zealand<br>Australia<br>Australia<br>New Zealand<br>Australia<br>New Zealand<br>New Zealand<br>New Zealand<br>Australia<br>Australia<br>New Zealand<br>New Zealand |
-| #5 | [Alex Vaziri](https://www.credly.com/users/alex-vaziri/badges)<br>[Alexander Ivanov](https://www.credly.com/users/alexander-ivanov.aca9c2ba/badges)<br>[Amit Alon](https://www.credly.com/users/amit-alon/badges)<br>[Andrey Filonov](https://www.credly.com/users/andrey-filonov.dca13e8d/badges)<br>[Andrey Filonov](https://www.credly.com/users/andrey-filonov/badges)<br>[Angela Yang](https://www.credly.com/users/angela-yang.3e59a707/badges)<br>[Angie Fasciani](https://www.credly.com/users/angie-fasciani.fd75bdf6/badges)<br>[Bayu Wibowo](https://www.credly.com/users/bayupw/badges)<br>[Bruno Campidelli](https://www.credly.com/users/bruno-campidelli/badges)<br>[Catherine King](https://www.credly.com/users/catherine-king.04454e18/badges)<br>[Chao Yang](https://www.credly.com/users/chao-yang.1fd0c510/badges)<br>[Chris Plewa](https://www.credly.com/users/chris-plewa/badges)<br>[Daniel Marsh-Patrick](https://www.credly.com/users/daniel-marsh-patrick/badges)<br>[David Lawrence Russell](https://www.credly.com/users/david_russell/badges)<br>[Ehsanul Karim](https://www.credly.com/users/ehsanul-karim.cbf825b2/badges)<br>[Elliot Whiley](https://www.credly.com/users/elliot-whiley/badges)<br>[Gonzalo Suarez](https://www.credly.com/users/gonzalo-suarez.841cc2c4/badges)<br>[Hansi Wang](https://www.credly.com/users/hansi-wang.16af049a/badges)<br>[Hou Ho Sii](https://www.credly.com/users/hou-ho-sii/badges)<br>[Ian Davey](https://www.credly.com/users/ian-davey.c5588e47/badges)<br>*... and 45 more* | 1 | <br><br><br><br><br><br><br>The Instillery<br><br><br><br><br><br>Wentworth Computer Science College<br><br><br><br><br><br><br> | Australia<br>New Zealand<br>Australia<br>New Zealand<br>New Zealand<br>New Zealand<br>Australia<br>New Zealand<br>New Zealand<br>Australia<br>New Zealand<br>Australia<br>New Zealand<br>New Zealand<br>New Zealand<br>New Zealand<br>New Zealand<br>New Zealand<br>New Zealand<br>Australia<br> |
+| 🥈 #2 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges)<br>[Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges)<br>[Jerome Brown](https://www.credly.com/users/owretch/badges)<br>[Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges)<br>[Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | <br><br>Mantel Group<br>WiseTech Global<br>Tata Consultancy Services | New Zealand<br>New Zealand<br>New Zealand<br>Australia<br>Australia |
+| 🥉 #3 | [Felix Gozali](https://www.credly.com/users/felix-gozali.891b4473/badges)<br>[Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges)<br>[Jolan Hu](https://www.credly.com/users/jolan-hu/badges)<br>[Khurram Shahzad](https://www.credly.com/users/khurram-shahzad.7a11d163/badges)<br>[Madhav Lakshminarayanan](https://www.credly.com/users/madhav-lakshminarayanan/badges)<br>[Matt Duguid](https://www.credly.com/users/mattduguid/badges)<br>[Ronald Pai](https://www.credly.com/users/ronald-pai.e3e25b98/badges)<br>[Sayali Chavan](https://www.credly.com/users/sayali-chavan.46e2379d/badges)<br>[shruti Singh](https://www.credly.com/users/shruti-singh.4e3d422a/badges)<br>[Susmitha Banda](https://www.credly.com/users/susmitha-banda.8e9506ea/badges)<br>[Viet Luu](https://www.credly.com/users/viet-luu.28e619f2/badges) | 4 | <br><br><br><br>Microsoft<br>Self<br><br><br><br><br> | Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>New Zealand<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia |
+| #4 | [Aaron Co Hee](https://www.credly.com/users/aaron-co-hee/badges)<br>[Ahmed Elsayed](https://www.credly.com/users/ahmedig/badges)<br>[Alireza Radman](https://www.credly.com/users/aradman/badges)<br>[Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges)<br>[Anurag Sharma](https://www.credly.com/users/anurag-sharma.127569fc/badges)<br>[Ayodeji Ayodele](https://www.credly.com/users/ayodejiayodele/badges)<br>[Christopher Baita](https://www.credly.com/users/christopher-baita/badges)<br>[Edward Cacavas](https://www.credly.com/users/edward-cacavas/badges)<br>[Felix Salim](https://www.credly.com/users/felix-salim/badges)<br>[Gabriel Adriano](https://www.credly.com/users/gabriel-adriano.f68eb55e/badges)<br>[Gareth Rowland](https://www.credly.com/users/gareth-rowland/badges)<br>[Gnaneshwara Babu Kolar Prabhakar](https://www.credly.com/users/gnaneshwara-babu-kolar-prabhakar/badges)<br>[Hung Dinh](https://www.credly.com/users/hungo/badges)<br>[Jeremy Lee](https://www.credly.com/users/jeremy-lee.045b8358/badges)<br>[Jesse Loudon](https://www.credly.com/users/jesseloudon/badges)<br>[Mannal Singh](https://www.credly.com/users/mannal-singh/badges)<br>[Mohamed El Taier](https://www.credly.com/users/mohamed-el-taier.d4d9b981/badges)<br>[Nelson Pui](https://www.credly.com/users/nelson-pui/badges)<br>[Rajesh Kumar Singh](https://www.credly.com/users/rajesh-singh.414f20b5/badges)<br>[Randi Ratnayake](https://www.credly.com/users/randiratnayake/badges)<br>*... and 9 more* | 3 | <br>Insight Enterprises<br>Insight Enterprises<br><br><br><br><br>Lab3<br><br><br>Open to Opportunities<br><br>Furō<br><br><br><br>Insight<br><br><br>Telstra Purple<br> | Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br> |
+| #5 | [Aimee Geng](https://www.credly.com/users/aimee-geng/badges)<br>[AJ Bajada](https://www.credly.com/users/aj-bajada/badges)<br>[AJAY PAL SINGH](https://www.credly.com/users/ajay-pal-singh.6a1169ca/badges)<br>[Alex Vaziri](https://www.credly.com/users/alex-vaziri/badges)<br>[Alexander Krum](https://www.credly.com/users/alexander-krum/badges)<br>[Andrei Mahalean](https://www.credly.com/users/andrei-mahalean/badges)<br>[Aravind Sundaram](https://www.credly.com/users/aravind-sundaram-13181/badges)<br>[Aruna Chinnamuthu](https://www.credly.com/users/aruna-chinnamuthu/badges)<br>[Ben Leane](https://www.credly.com/users/ben-leane/badges)<br>[Ben Roberts](https://www.credly.com/users/benbroberts/badges)<br>[Cihan Solbudak](https://www.credly.com/users/cihan-solbudak/badges)<br>[Clint Eccleshall](https://www.credly.com/users/clint-eccleshall/badges)<br>[Cristopher Germuts](https://www.credly.com/users/cristopher-germuts/badges)<br>[Daniel Hardej](https://www.credly.com/users/daniel-hardej/badges)<br>[Dylan McCarthy](https://www.credly.com/users/dylan-mccarthy.b11ab6bd/badges)<br>[Emad Alashi](https://www.credly.com/users/emad-alashi.a198bab4/badges)<br>[Emily Kuo](https://www.credly.com/users/emily-kuo.ddc49a45/badges)<br>[Eric Chapman](https://www.credly.com/users/eric-chapman.f4b5f5c7/badges)<br>[Eric Thorneloe](https://www.credly.com/users/eric-thorneloe/badges)<br>[Gavin Armitage](https://www.credly.com/users/gavin-armitage/badges)<br>*... and 59 more* | 2 | <br><br><br><br><br><br><br><br><br>Avanade<br><br><br><br><br>Versent<br><br><br><br><br><br> | Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>New Zealand<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>New Zealand<br>New Zealand<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br> |
+| #6 | [Aaron de Vroede](https://www.credly.com/users/aaron-de-vroede/badges)<br>[Aashish Jolly](https://www.credly.com/users/aashish-jolly/badges)<br>[Achref Marzouki](https://www.credly.com/users/achref-marzouki.ec0e79d7/badges)<br>[Adam Simmonds](https://www.credly.com/users/adam-simmonds.4f5e4169/badges)<br>[Adiwena Kurnadi](https://www.credly.com/users/adiwena-kurnadi.366b2b54/badges)<br>[Adrian Watson](https://www.credly.com/users/adrian-watson.722971b7/badges)<br>[Ahmad H.](https://www.credly.com/users/ahmad-husaini.b7235758/badges)<br>[Ahmed Youssef](https://www.credly.com/users/ahmed-youssef.e3b42999/badges)<br>[Ajina John](https://www.credly.com/users/ajina-john.5c7e4d1d/badges)<br>[Akash Sethi](https://www.credly.com/users/akash-sethi.2df28081/badges)<br>[Akash Singh](https://www.credly.com/users/akash-singh.35487603/badges)<br>[Alan Burton](https://www.credly.com/users/alan-burton.e01270c4/badges)<br>[Alana Noonan](https://www.credly.com/users/alana-noonan.410982a0/badges)<br>[Alex Liu](https://www.credly.com/users/alex-liu.9976b0c4/badges)<br>[Alex Redwood](https://www.credly.com/users/alex-redwood/badges)<br>[Alex Twan Duong](https://www.credly.com/users/alex-twan-duong/badges)<br>[Alexander Ivanov](https://www.credly.com/users/alexander-ivanov.aca9c2ba/badges)<br>[Alexander Marschall](https://www.credly.com/users/alexander-marschall/badges)<br>[Alvin Vinalon](https://www.credly.com/users/alvin-vinalon/badges)<br>[Amanda Tan](https://www.credly.com/users/amanda-tan.24a5fa5b/badges)<br>*... and 443 more* | 1 | <br>Versent<br><br><br><br><br>Arinco<br><br><br><br><br><br><br><br><br><br><br><br><br><br> | Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>Australia<br>New Zealand<br>Australia<br>Australia<br>Australia<br> |
 
 ---
 
@@ -18,11 +19,11 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | GitHub | 17 | 3 |
-| 🥈 #2 | Mantel Group | 5 | 1 |
-| 🥉 #3 | Self | 4 | 1 |
-| #4 | Lab3 | 2 | 1 |
-| #5 | The Instillery<br>Wentworth Computer Science College | 1 | 1<br>1 |
+| 🥇 #1 | GitHub | 13 | 1 |
+| 🥈 #2 | Insight Enterprises | 6 | 2 |
+| 🥉 #3 | Mantel Group<br>Tata Consultancy Services<br>WiseTech Global | 5 | 1<br>1<br>1 |
+| #4 | Microsoft<br>Self | 4 | 1<br>1 |
+| #5 | Versent<br>Furō<br>Insight<br>Lab3<br>Open to Opportunities<br>Telstra Purple | 3 | 2<br>1<br>1<br>1<br>1<br>1 |
 
 ---
 
@@ -30,17 +31,17 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | New Zealand | 94 | 70 |
-| 🥈 #2 | Australia | 30 | 13 |
+| 🥇 #1 | Australia | 695 | 517 |
+| 🥈 #2 | New Zealand | 94 | 70 |
 | 🥉 #3 | Fiji | 1 | 1 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 84
-- **Total Badges Earned**: 125
-- **Average Badges per User**: 1.49
+- **Total Certified Users**: 588
+- **Total Badges Earned**: 790
+- **Average Badges per User**: 1.34
 - **Highest Badge Count**: 13
 
 ---
