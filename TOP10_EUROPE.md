@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: September 14, 2026 at 02:04 UTC
+> Last updated: September 15, 2026 at 02:12 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Mathias Olausson](https://www.credly.com/users/mathias-olausson/badges)<br>[Victor de Baare](https://www.credly.com/users/victor-de-baare/badges) | 14 | <br>Xebia<br>Eficode<br>Xebia | Greece<br>Netherlands<br>Sweden<br>Netherlands |
 | #8 | [Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 13 | Xebia<br>Xebia<br>Transition Technologies PSC<br>Solidify Eficode<br><br>Xebia | Netherlands<br>Netherlands<br>Poland<br>Sweden<br>Austria<br>Germany |
 | #9 | [Mark van der Burg](https://www.credly.com/users/mark-van-der-burg.22851d3e/badges) | 12 | Revoltaged | Netherlands |
-| #10 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges)<br>[Igor Lakhtenkov](https://www.credly.com/users/igor-lakhtenkov.81d2dd0a/badges) | 11 | Cluster Reply GmbH<br> | Germany<br>Germany |
+| #10 | [Daniel Richard Snell](https://www.credly.com/users/daniel-snell.f7bc4ec8/badges) | 11 | Cluster Reply GmbH | Germany |
 
 ---
 
@@ -38,15 +38,15 @@
 | 🥇 #1 | United Kingdom | 1079 | 761 |
 | 🥈 #2 | Netherlands | 698 | 315 |
 | 🥉 #3 | Spain | 619 | 461 |
-| #4 | Germany | 498 | 350 |
+| #4 | Germany | 487 | 349 |
 | #5 | Poland | 486 | 299 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,194
-- **Total Badges Earned**: 6,240
+- **Total Certified Users**: 4,193
+- **Total Badges Earned**: 6,229
 - **Average Badges per User**: 1.49
 - **Highest Badge Count**: 22
 
