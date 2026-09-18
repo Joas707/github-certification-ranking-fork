@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil (Community Only)
 
-> Last updated: September 15, 2026 at 02:16 UTC
+> Last updated: September 18, 2026 at 01:59 UTC
 >
 > This ranking includes only community certifications (excludes partner-exclusive badges).
 >
@@ -12,7 +12,7 @@
 | Rank | Name | Badges | Company |
 |------|------|--------|---------|
 | 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 9 | Avanade |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 8 | Avanade<br>Avanade<br>Avanade |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 8 | Avanade<br>Avanade<br>Avanade |
 | 🥉 #3 | [Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges)<br>[Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 7 | TD SYNNEX<br>Avanade<br>Avanade |
 | #4 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 6 | Avanade |
 | #5 | [Beatriz Matsui](https://www.credly.com/users/beatriz-matsui/badges)<br>[Christiano Martins Milfont Almeida](https://www.credly.com/users/cmilfont/badges)<br>[Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Danilo Perez](https://www.credly.com/users/daniloperez/badges)<br>[Ednei Monteiro](https://www.credly.com/users/ednei-monteiro/badges)<br>[Fernando Moreni](https://www.credly.com/users/fernando-moreni/badges)<br>[Jailton Santos Sales Junior](https://www.credly.com/users/jailton-santos-sales-junior/badges)<br>[Juliano Dziadzio](https://www.credly.com/users/juliano-dziadzio.5cdefb9f/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges)<br>[Rafael Silva Willians](https://www.credly.com/users/rafael-silva-willians/badges)<br>[William Zonta](https://www.credly.com/users/william-zonta.d8c69de2/badges) | 5 | Microsoft<br>Accenture<br>ilegra<br><br>Microsoft<br><br>Microsoft<br><br>Avanade<br>ilegra<br><br>Optima Latam |
