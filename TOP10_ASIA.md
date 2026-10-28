@@ -1,6 +1,6 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: October 27, 2026 at 02:42 UTC
+> Last updated: October 28, 2026 at 02:51 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Akshay Hosur](https://www.credly.com/users/akshay-hosur/badges)<br>[Arindam Das](https://www.credly.com/users/arindam-das.b63d3f5f/badges)<br>[Dheeraj Kumar Sah](https://www.credly.com/users/dheeraj-sah.db746fda/badges)<br>[Jaina Vinod Kumar](https://www.credly.com/users/jaina-vinod-kumar/badges)<br>[Praveen K Rugi](https://www.credly.com/users/praveen-rugi.9753a90e/badges)<br>[Rohit Kale](https://www.credly.com/users/rohit-kale.bf353f89/badges) | 14 | Canarys Automations Limited<br>Xebia<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br> | India<br>India<br>India<br>India<br>India<br>India |
 | #8 | [Akshay Kumar](https://www.credly.com/users/akshay-kumar.26f4470d/badges)<br>[Balaji Sriramdas](https://www.credly.com/users/balaji-sriramdas/badges)<br>[Deepa Toravi](https://www.credly.com/users/deepa-toravi/badges)<br>[Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 13 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India<br>India |
 | #9 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges)<br>[Konkala Rajasekhar Reddy](https://www.credly.com/users/rajasekhar-reddy-konkala/badges)<br>[Priya Solanki](https://www.credly.com/users/priya-solanki.8042de6e/badges)<br>[Saran Dhandapani Brindha](https://www.credly.com/users/saran-dhandapani-brindha/badges) | 12 | <br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | Turkey<br>India<br>India<br>India |
-| #10 | [Bhavyashree SS](https://www.credly.com/users/bhavyashree-ss/badges)<br>[Shaik Abedeen Asra](https://www.credly.com/users/abededeen-asra/badges)<br>[Thulsi Ram Vijaya Kumar](https://www.credly.com/users/thulsiramvijayakumar/badges) | 11 | Canarys Automations Limited<br>Canarys Automations Limited<br>Wipro Limited | India<br>India<br>India |
+| #10 | [Bhavyashree SS](https://www.credly.com/users/bhavyashree-ss/badges)<br>[GOLLAVATHINI SHESHU](https://www.credly.com/users/gollavathini-sheshu/badges)<br>[Shaik Abedeen Asra](https://www.credly.com/users/abededeen-asra/badges)<br>[Thulsi Ram Vijaya Kumar](https://www.credly.com/users/thulsiramvijayakumar/badges) | 11 | Canarys Automations Limited<br><br>Canarys Automations Limited<br>Wipro Limited | India<br>India<br>India<br>India |
 
 ---
 
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12280 | 10000 |
-| 🥈 #2 | Japan | 548 | 387 |
+| 🥇 #1 | India | 12288 | 10000 |
+| 🥈 #2 | Japan | 547 | 386 |
 | 🥉 #3 | Singapore | 300 | 252 |
 | #4 | Sri Lanka | 299 | 283 |
 | #5 | China | 234 | 221 |
@@ -46,8 +46,8 @@
 ## 📊 Statistics
 
 - **Total Certified Users**: 12,196
-- **Total Badges Earned**: 14,938
-- **Average Badges per User**: 1.22
+- **Total Badges Earned**: 14,946
+- **Average Badges per User**: 1.23
 - **Highest Badge Count**: 20
 
 ---
