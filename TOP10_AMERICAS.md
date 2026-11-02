@@ -1,13 +1,13 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: November 01, 2026 at 02:56 UTC
+> Last updated: November 02, 2026 at 03:04 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 21 | Avanade | Brazil |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges)<br>[Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade<br>Xebia<br>Avanade<br>TD SYNNEX<br>Avanade | Brazil<br>United States<br>Brazil<br>Brazil<br>Brazil |
+| 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges)<br>[Gabriel Tramontin](https://www.credly.com/users/gabrieltramontin/badges) | 21 | Avanade<br>TD SYNNEX | Brazil<br>Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Diego Giglioli](https://www.credly.com/users/diegolisboajj/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade<br>Xebia<br>Avanade<br>Avanade | Brazil<br>United States<br>Brazil<br>Brazil |
 | 🥉 #3 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges)<br>[David Daniels](https://www.credly.com/users/daviddaniels/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 18 | Avanade<br>Xebia<br>Avanade | Brazil<br>United States<br>Brazil |
 | #4 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges) | 17 | Xebia<br>Avanade<br>Lenovo | United States<br>Brazil<br>Canada |
 | #5 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 16 | Avanade | Brazil |
@@ -26,7 +26,7 @@
 | 🥇 #1 | Avanade | 247 | 15 |
 | 🥈 #2 | Xebia | 96 | 6 |
 | 🥉 #3 | ilegra | 27 | 2 |
-| #4 | TD SYNNEX | 20 | 1 |
+| #4 | TD SYNNEX | 21 | 1 |
 | #5 | Lenovo | 17 | 1 |
 
 ---
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 4096 | 2842 |
-| 🥈 #2 | Brazil | 2123 | 1527 |
+| 🥇 #1 | United States | 4098 | 2842 |
+| 🥈 #2 | Brazil | 2124 | 1527 |
 | 🥉 #3 | Canada | 753 | 561 |
 | #4 | Mexico | 593 | 452 |
 | #5 | Peru | 496 | 415 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,907
-- **Total Badges Earned**: 9,398
+- **Total Certified Users**: 6,906
+- **Total Badges Earned**: 9,396
 - **Average Badges per User**: 1.36
 - **Highest Badge Count**: 21
 
