@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: November 02, 2026 at 03:04 UTC
+> Last updated: November 03, 2026 at 04:23 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,9 +8,9 @@
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 22 | Avanade | France |
 | 🥈 #2 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Delta-N<br>Delta-N<br>Xebia<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Germany<br>Netherlands<br>France |
-| 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 19 | Xebia<br>Xebia<br>Eficode | Netherlands<br>Netherlands<br>Germany |
-| #4 | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | Eficode<br>SoftwareOne<br><br>Microsoft | Estonia<br>Poland<br>Netherlands<br>Belgium |
-| #5 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 17 | Delta-N<br>Xebia<br>Eficode | Netherlands<br>Netherlands<br>Finland |
+| 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 19 | Xebia<br>Eficode<br>Xebia<br>Eficode | Netherlands<br>Estonia<br>Netherlands<br>Germany |
+| #4 | [Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | SoftwareOne<br><br>Microsoft | Poland<br>Netherlands<br>Belgium |
+| #5 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 17 | Delta-N<br>Xebia<br>TLXO Creative Services | Netherlands<br>Netherlands<br>Finland |
 | #6 | [Heidi Koivisto](https://www.credly.com/users/heidi-koivisto.dd513e2c/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges)<br>[Victor de Baare](https://www.credly.com/users/victor-de-baare/badges) | 16 | Eficode<br>Xebia<br>Xebia | Finland<br>Netherlands<br>Netherlands |
 | #7 | [Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Logan Farci](https://www.credly.com/users/logan-farci/badges) | 15 | Avanade<br>Avanade | Belgium<br>Belgium |
 | #8 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Fokko Veegens](https://www.credly.com/users/fokko-veegens/badges)<br>[Mathias Olausson](https://www.credly.com/users/mathias-olausson/badges) | 14 | <br>Xebia<br>Eficode | Greece<br>Netherlands<br>Sweden |
@@ -24,7 +24,7 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 167 | 10 |
-| 🥈 #2 | Eficode | 96 | 6 |
+| 🥈 #2 | Eficode | 80 | 5 |
 | 🥉 #3 | Avanade | 72 | 4 |
 | #4 | Delta-N | 57 | 3 |
 | #5 | Microsoft<br>SoftwareOne | 18 | 1<br>1 |
@@ -36,7 +36,7 @@
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | United Kingdom | 1077 | 762 |
-| 🥈 #2 | Netherlands | 702 | 318 |
+| 🥈 #2 | Netherlands | 703 | 319 |
 | 🥉 #3 | Spain | 618 | 460 |
 | #4 | Germany | 522 | 350 |
 | #5 | Poland | 488 | 300 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,193
-- **Total Badges Earned**: 6,259
+- **Total Certified Users**: 4,195
+- **Total Badges Earned**: 6,264
 - **Average Badges per User**: 1.49
 - **Highest Badge Count**: 22
 
