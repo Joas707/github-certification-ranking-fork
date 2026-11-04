@@ -1,13 +1,13 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: November 03, 2026 at 04:23 UTC
+> Last updated: November 04, 2026 at 03:41 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 22 | Avanade | France |
-| 🥈 #2 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Delta-N<br>Delta-N<br>Xebia<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Germany<br>Netherlands<br>France |
+| 🥈 #2 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 20 | Xebia<br>Delta-N<br>Xebia<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Germany<br>Netherlands<br>France |
 | 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 19 | Xebia<br>Eficode<br>Xebia<br>Eficode | Netherlands<br>Estonia<br>Netherlands<br>Germany |
 | #4 | [Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | SoftwareOne<br><br>Microsoft | Poland<br>Netherlands<br>Belgium |
 | #5 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 17 | Delta-N<br>Xebia<br>TLXO Creative Services | Netherlands<br>Netherlands<br>Finland |
@@ -23,10 +23,10 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Xebia | 167 | 10 |
+| 🥇 #1 | Xebia | 187 | 11 |
 | 🥈 #2 | Eficode | 80 | 5 |
 | 🥉 #3 | Avanade | 72 | 4 |
-| #4 | Delta-N | 57 | 3 |
+| #4 | Delta-N | 37 | 2 |
 | #5 | Microsoft<br>SoftwareOne | 18 | 1<br>1 |
 
 ---
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1077 | 762 |
-| 🥈 #2 | Netherlands | 703 | 319 |
+| 🥇 #1 | United Kingdom | 1078 | 762 |
+| 🥈 #2 | Netherlands | 709 | 319 |
 | 🥉 #3 | Spain | 618 | 460 |
 | #4 | Germany | 522 | 350 |
 | #5 | Poland | 488 | 300 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,195
-- **Total Badges Earned**: 6,264
+- **Total Certified Users**: 4,194
+- **Total Badges Earned**: 6,269
 - **Average Badges per User**: 1.49
 - **Highest Badge Count**: 22
 
