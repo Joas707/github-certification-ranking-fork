@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Shawn,,St Mart,3,/users/shawn-st-mart/badges
 Martin,,Leung,1,/users/martin-leung.f8966d54/badges
 Jorge,,Arias,2,/users/jorge-arias.9a16e7f2/badges
-Shawn,,St Mart,2,/users/shawn-st-mart/badges
 Chris,,Cooke,1,/users/chris-cooke.ed28873d/badges
 Hung,,Dinh,1,/users/hungo/badges
 Diego,,Cruz,1,/users/diego-cruz-ti/badges
@@ -227,7 +227,7 @@ Sriram,,Ramani,1,/users/sriram-ramani/badges
 Zeyu,,Chen,1,/users/zeyu-chen.c85947b2/badges
 Roshan,,Wosti,1,/users/roshan-wosti/badges
 Lucian,,Maly,1,/users/lucian-maly/badges
-Kitty,,Chiu,2,/users/kittychiu/badges
+Kitty,,Chiu,0,/users/kittychiu/badges
 Michael,John Timpoc,Peña,1,/users/michael-john-pena/badges
 Mehakdeep,,Singh,1,/users/mehakdeep-singh.cf006b42/badges
 YI-FAN,,YU,1,/users/yi-fan-yu.7eb7a48a/badges
@@ -484,7 +484,7 @@ Ahmad,,H.,1,/users/ahmad-husaini.b7235758/badges
 Zarki,,Salleh,1,/users/zarki-salleh/badges
 Rebecca,,Guy,1,/users/rebecca-guy.764dda45/badges
 Anthony,,Scata,1,/users/anthony-scata/badges
-Chris,,McKelt,1,/users/chris-mckelt/badges
+Chris,,McKelt,3,/users/chris-mckelt/badges
 Ricardo,,Campo,1,/users/ricardo-campo/badges
 Melissa,,Houghton,1,/users/melissahoughton/badges
 Ash,,Caire,3,/users/ash-caire/badges
