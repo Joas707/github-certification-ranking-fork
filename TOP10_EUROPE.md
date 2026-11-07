@@ -1,14 +1,14 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: November 06, 2026 at 03:59 UTC
+> Last updated: November 07, 2026 at 03:33 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 23 | Avanade | France |
-| 🥈 #2 | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 21 | Delta-N<br>Xebia<br>Avanade | Netherlands<br>Germany<br>France |
-| 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges) | 20 | Xebia<br>Xebia<br>Eficode<br>Xebia<br>Xebia<br>Eficode | Netherlands<br>Netherlands<br>Estonia<br>Netherlands<br>Netherlands<br>Germany |
+| 🥈 #2 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Nico Orschel](https://www.credly.com/users/nico-orschel/badges)<br>[Till Spindler](https://www.credly.com/users/till-spindler/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 21 | Xebia<br>Delta-N<br>Xebia<br>Eficode<br>Avanade | Netherlands<br>Netherlands<br>Germany<br>Germany<br>France |
+| 🥉 #3 | [Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 20 | Xebia<br>Eficode<br>Xebia<br>Xebia | Netherlands<br>Estonia<br>Netherlands<br>Netherlands |
 | #4 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Julien Lebutte](https://www.credly.com/users/julienlebutte/badges)<br>[Patrycja Kozak](https://www.credly.com/users/patrycja-kozak.2a2cf477/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | Delta-N<br>Avanade<br>SoftwareOne<br><br>Microsoft | Netherlands<br>Belgium<br>Poland<br>Netherlands<br>Belgium |
 | #5 | [Heidi Koivisto](https://www.credly.com/users/heidi-koivisto.dd513e2c/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges)<br>[Toni Laakso](https://www.credly.com/users/toni-laakso/badges) | 17 | Eficode<br>Xebia<br>Xebia<br>TLXO Creative Services | Finland<br>Netherlands<br>Netherlands<br>Finland |
 | #6 | [Victor de Baare](https://www.credly.com/users/victor-de-baare/badges) | 16 | Xebia | Netherlands |
@@ -23,8 +23,8 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Xebia | 194 | 11 |
-| 🥈 #2 | Eficode | 97 | 6 |
+| 🥇 #1 | Xebia | 195 | 11 |
+| 🥈 #2 | Eficode | 98 | 6 |
 | 🥉 #3 | Avanade | 77 | 4 |
 | #4 | Delta-N | 39 | 2 |
 | #5 | Microsoft<br>SoftwareOne | 18 | 1<br>1 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1077 | 762 |
-| 🥈 #2 | Netherlands | 717 | 319 |
-| 🥉 #3 | Spain | 617 | 460 |
-| #4 | Germany | 528 | 350 |
-| #5 | Poland | 488 | 300 |
+| 🥇 #1 | United Kingdom | 1078 | 763 |
+| 🥈 #2 | Netherlands | 719 | 319 |
+| 🥉 #3 | Spain | 618 | 460 |
+| #4 | Germany | 529 | 350 |
+| #5 | Poland | 489 | 300 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,196
-- **Total Badges Earned**: 6,299
+- **Total Certified Users**: 4,197
+- **Total Badges Earned**: 6,306
 - **Average Badges per User**: 1.50
 - **Highest Badge Count**: 23
 
