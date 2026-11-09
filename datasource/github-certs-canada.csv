@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Ezra John,,Guia,1,/users/ezrajohn-guia/badges
 Omer Faruk,,Celik,1,/users/omer-faruk-celik.a963ec92/badges
 Peter,,van der Zouwe,1,/users/peter-van-der-zouwe/badges
 Amar,,Kapur,3,/users/amar-kapur.1d105d64/badges
@@ -10,7 +11,7 @@ Shehzad,,Merchant,1,/users/shehzad-merchant.cb7fe5f6/badges
 Kaan,,Turgut,17,/users/hkaanturgut/badges
 David,,Kokkilic,3,/users/david-kokkilic/badges
 Siddharth,,Tata,1,/users/siddharth-tata.8eb0c530/badges
-Shalin,,Dave,6,/users/shalin-dave.a1886fb0/badges
+Shalin,,Dave,0,/users/shalin-dave.a1886fb0/badges
 Edwin,,Rodriguez,6,/users/edwin-rodriguez.0613fba4/badges
 Andy M.,,Kucuk,6,/users/andy-m-kucuk/badges
 Erol,,Kavas,9,/users/erol/badges
@@ -532,7 +533,7 @@ Scott,,McLean,1,/users/scott-mclean.17b0c2b8/badges
 Vinicius,,Martins,1,/users/vinicius-martins.36b14646/badges
 Eugene,,Lim,2,/users/eugene-lim.5f5e01ea/badges
 Yulia,,Buzlukova,1,/users/yulia-buzlukova/badges
-Yuheng,,Zhao,4,/users/yuheng-zhao.cadf9daf/badges
+Yuheng,,Zhao,3,/users/yuheng-zhao.cadf9daf/badges
 Theo,,Melo,1,/users/theo-melo/badges
 Daniel,,Moran,2,/users/daniel-moran.6e728f9b/badges
 Sohraub,,Pazuki,2,/users/sohraub-pazuki/badges
