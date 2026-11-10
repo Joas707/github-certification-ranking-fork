@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Joni,,Lahtinen,2,/users/joni-lahtinen/badges
 Henry,,Luosujärvi,7,/users/henry-luosujarvi/badges
 Heidi,,Koivisto,17,/users/heidi-koivisto.dd513e2c/badges
 Jarmo,,Koivusaari,4,/users/jarmo-koivusaari/badges
@@ -88,7 +89,6 @@ Juho,,Saarinen,1,/users/juho-saarinen.5fc95ae6/badges
 Ari,,Palo,2,/users/aripalo/badges
 Evgenii,,Smirnov,1,/users/evgenii-smirnov.eb138467/badges
 Heikki,,Poikolainen,3,/users/heikki-poikolainen/badges
-Joni,,Lahtinen,1,/users/joni-lahtinen/badges
 Daniel,,Kaluski,1,/users/daniel-kaluski/badges
 Heikki-Jussi,,Niemi,1,/users/heikki-jussi-niemi/badges
 Gleb,,Tishchenko,1,/users/gleb-tishchenko/badges
