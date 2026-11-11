@@ -1,4 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Erik,,Oppedijk,1,/users/erik-oppedijk/badges
+Alexandru,,Lazarescu,8,/users/alexandru-lazarescu/badges
 Victor,,de Baare,17,/users/victor-de-baare/badges
 Justin,,Bonefaas,8,/users/justin-bonefaas.66bf6b76/badges
 Gerrit Johannes,,de Graaf,2,/users/gerrit-johannes-de-graaf/badges
@@ -214,7 +216,6 @@ Bernard,,Visagie,1,/users/bernard-visagie.32376e1b/badges
 Peter,,van den Berg,1,/users/peter-van-den-berg.c2d9ca08/badges
 Patrick,,Munne,1,/users/patrick-munne.38edcf8e/badges
 Daniël,,De Roo,1,/users/hendrikus-daniel-roo/badges
-Alexandru,,Lazarescu,4,/users/alexandru-lazarescu/badges
 Nagarjuna,,Adapa,1,/users/nagarjuna-adapa.28e83eff/badges
 Andrii,,Bilorus,2,/users/andrii-bilorus/badges
 Stephan,,Tromer,4,/users/stephan-tromer/badges
