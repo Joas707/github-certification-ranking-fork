@@ -1,5 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Erik,,Oppedijk,1,/users/erik-oppedijk/badges
+Anne,,Meijer,2,/users/anne-meijer/badges
+Erik,,Oppedijk,2,/users/erik-oppedijk/badges
+Matthijs,,van der Veer,2,/users/matthijsvdveer/badges
 Alexandru,,Lazarescu,8,/users/alexandru-lazarescu/badges
 Victor,,de Baare,17,/users/victor-de-baare/badges
 Justin,,Bonefaas,8,/users/justin-bonefaas.66bf6b76/badges
@@ -165,7 +167,6 @@ Marjet,,Bosma,1,/users/marjet-bosma/badges
 Martijn,,van Citteren,1,/users/martijn-van-citteren/badges
 Tihomir,,Nikolov,1,/users/tihomir-nikolov.2df669a4/badges
 Roeland,,Douma,3,/users/roeland-douma/badges
-Matthijs,,van der Veer,2,/users/matthijsvdveer/badges
 Freerk,,Wielstra,1,/users/freerk-wielstra/badges
 Roël,,Donk,1,/users/roel-donk.ecd69abc/badges
 Wessel,,Turk,1,/users/wessel-turk/badges
@@ -248,7 +249,6 @@ Miguel,,Verweij,1,/users/miguel-verweij/badges
 Ralph,,Thissen,1,/users/ralph-thissen.e5962fb0/badges
 Daniel,,Paulus,1,/users/daniel-paulus/badges
 Yulia,,Kirilova,1,/users/yulia-kirilova.919859fa/badges
-Anne,,Meijer,1,/users/anne-meijer/badges
 Bart,,van der Kolk,1,/users/bart-van-der-kolk/badges
 Paulien,,Leeuwenburgh,2,/users/paulien-leeuwenburgh/badges
 Sudharson,,Aravamudhan,4,/users/sudharson-aravamudhan.c2e1c70f/badges
