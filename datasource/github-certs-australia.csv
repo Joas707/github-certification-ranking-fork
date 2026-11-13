@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Tom,,Kavanagh,3,/users/tkav/badges
 Ayobami,,Adebayo,1,/users/bammy/badges
 Ben,,Leane,4,/users/ben-leane/badges
 Shawn,,St Mart,3,/users/shawn-st-mart/badges
@@ -256,7 +257,6 @@ Leonardo,,Diaz Deramond,1,/users/ldiazderamond/badges
 SundarRajan,,Sundarakatti,1,/users/sundarrajan-sundarakatti/badges
 Nachammai,,Muthiah,1,/users/nachammai-muthiah/badges
 Kumaran,,Narayanasamy,1,/users/kumaran-narayanasamy.0ad970ec/badges
-Tom,,Kavanagh,2,/users/tkav/badges
 Khan,,Yap,1,/users/khan-yap/badges
 Tyson,,Lawrie,1,/users/tysonlawrie/badges
 Maxim,,Mazurok,5,/users/maxim-mazurok/badges
@@ -339,6 +339,7 @@ shruti,,Singh,4,/users/shruti-singh.4e3d422a/badges
 Jithesh,,Pothera,1,/users/jithesh-pothera.255e9782/badges
 Ryan,,Wickham,1,/users/ryan-wickham.904bfa09/badges
 Thaneshmaran,,Pannirselvam,1,/users/thaneshmaran-pannirselvam/badges
+Julian,,Kapitzke,1,/users/julian-kapitzke/badges
 Salman,,Khan,1,/users/salman-khan.53493a01/badges
 Chithara,,Achyuta,1,/users/chithara-achyuta/badges
 Neil,,Farrell,1,/users/neil-farrell.58f3b501/badges
@@ -474,7 +475,7 @@ Roger,,Symonds,1,/users/roger-symonds.146c684b/badges
 Bruno,,Faria,1,/users/bnlf/badges
 Muhammad,,Irfan,2,/users/muhammad-irfan.421629dd/badges
 Gary,,Goh,0,/users/gary-goh.8068ea36/badges
-Leo,,Arkhipov,0,/users/leoa451/badges
+Leo,,Arkhipov,3,/users/leoa451/badges
 Joshua,,Antolini,1,/users/joshua-antolini.df695e04/badges
 Justin Alex,,Paramanandan,1,/users/justin-alex-paramanandan/badges
 Steven,,Honson,1,/users/steven-honson/badges
