@@ -1,6 +1,6 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: November 16, 2026 at 03:34 UTC
+> Last updated: November 17, 2026 at 05:34 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -13,7 +13,7 @@
 | #5 | [GOLLAVATHINI SHESHU](https://www.credly.com/users/gollavathini-sheshu/badges)<br>[Raghavendra Shirashyad](https://www.credly.com/users/raghavendra-shirashyad/badges) | 16 | <br>Canarys Automations Limited | India<br>India |
 | #6 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges)<br>[Arpit Jere](https://www.credly.com/users/arpit-jere/badges)<br>[KURUVA SANDEEP](https://www.credly.com/users/kuruva-sandeep.62288725/badges)<br>[Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges)<br>[NIKHIL GOWDA N](https://www.credly.com/users/nikhil-gowda-n/badges)<br>[Prateek Rai Srivastav](https://www.credly.com/users/prateek-rai-srivastav.78e79fcf/badges)<br>[Praveen Huliyappanavar](https://www.credly.com/users/praveen-huliyappanavar/badges)<br>[Shiva Sagar M](https://www.credly.com/users/shiva-sagar-m.9963b9a5/badges)<br>[Stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 15 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>XPT Software<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Ivalue Infosolutions Limited | India<br>India<br>India<br>India<br>India<br>India<br>India<br>India<br>India |
 | #7 | [Akshay Hosur](https://www.credly.com/users/akshay-hosur/badges)<br>[Arindam Das](https://www.credly.com/users/arindam-das.b63d3f5f/badges)<br>[Dheeraj Kumar Sah](https://www.credly.com/users/dheeraj-sah.db746fda/badges)<br>[Jaina Vinod Kumar](https://www.credly.com/users/jaina-vinod-kumar/badges)<br>[Praveen K Rugi](https://www.credly.com/users/praveen-rugi.9753a90e/badges)<br>[Rohit Kale](https://www.credly.com/users/rohit-kale.bf353f89/badges)<br>[Sukumar Poreddy](https://www.credly.com/users/sukumar-poreddy/badges) | 14 | Canarys Automations Limited<br>Xebia<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br><br>InfoMagnus | India<br>India<br>India<br>India<br>India<br>India<br>India |
-| #8 | [Akshay Kumar](https://www.credly.com/users/akshay-kumar.26f4470d/badges)<br>[Balaji Sriramdas](https://www.credly.com/users/balaji-sriramdas/badges)<br>[Deepa Toravi](https://www.credly.com/users/deepa-toravi/badges)<br>[Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 13 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India<br>India |
+| #8 | [Akshay Kumar](https://www.credly.com/users/akshay-kumar.26f4470d/badges)<br>[Deepa Toravi](https://www.credly.com/users/deepa-toravi/badges)<br>[Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 13 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India |
 | #9 | [Akshit Arora](https://www.credly.com/users/akshit-arora.fcd519f1/badges)<br>[Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges)<br>[Konkala Rajasekhar Reddy](https://www.credly.com/users/rajasekhar-reddy-konkala/badges)<br>[Priya Solanki](https://www.credly.com/users/priya-solanki.8042de6e/badges)<br>[Saran Dhandapani Brindha](https://www.credly.com/users/saran-dhandapani-brindha/badges) | 12 | <br><br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>Turkey<br>India<br>India<br>India |
 | #10 | [Bhavyashree SS](https://www.credly.com/users/bhavyashree-ss/badges)<br>[Shaik Abedeen Asra](https://www.credly.com/users/abededeen-asra/badges)<br>[Thulsi Ram Vijaya Kumar](https://www.credly.com/users/thulsiramvijayakumar/badges) | 11 | Canarys Automations Limited<br>Canarys Automations Limited<br>Wipro Limited | India<br>India<br>India |
 
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Canarys Automations Limited | 414 | 28 |
+| 🥇 #1 | Canarys Automations Limited | 401 | 27 |
 | 🥈 #2 | Xebia | 90 | 5 |
 | 🥉 #3 | Ivalue Infosolutions Limited<br>XPT Software | 15 | 1<br>1 |
 | #4 | InfoMagnus | 14 | 1 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12333 | 10000 |
-| 🥈 #2 | Japan | 540 | 386 |
+| 🥇 #1 | India | 12319 | 10000 |
+| 🥈 #2 | Japan | 536 | 385 |
 | 🥉 #3 | Sri Lanka<br>Singapore | 300 | 284<br>252 |
-| #4 | China | 237 | 221 |
+| #4 | China | 236 | 220 |
 | #5 | Philippines | 217 | 186 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,194
-- **Total Badges Earned**: 14,984
+- **Total Certified Users**: 12,192
+- **Total Badges Earned**: 14,959
 - **Average Badges per User**: 1.23
 - **Highest Badge Count**: 20
 
