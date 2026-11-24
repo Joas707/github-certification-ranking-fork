@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Håkon,,Kristiansen,6,/users/hakon-kristiansen.f00b720c/badges
 Nina,,Gutrud,6,/users/nina-gutrud/badges
 Simen,,Barmoen,1,/users/simen-barmoen/badges
 Mohammadali,,Safaie,6,/users/mohammadali-safaie.08f5f82e/badges
@@ -32,7 +33,7 @@ Erlend,,Bygdås,3,/users/erlend-bygdas/badges
 Snorre,,Ledal,1,/users/snorre-ledal/badges
 Ronny,,Lønning,1,/users/ronny-lonning/badges
 Vegard,,Eikenes,3,/users/vegard-eikenes/badges
-Håvard,,Løkensgard,3,/users/havard-lokensgard/badges
+Håvard,,Løkensgard,0,/users/havard-lokensgard/badges
 Erik Storås,,Sommer,3,/users/erik-storas-sommer/badges
 Thomas Iversen,,Ramm,1,/users/thomas-iversen-ramm/badges
 André,,Finstad,1,/users/andre-finstad/badges

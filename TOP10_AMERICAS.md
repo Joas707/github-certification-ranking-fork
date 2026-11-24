@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: November 23, 2026 at 04:27 UTC
+> Last updated: November 24, 2026 at 07:23 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -37,7 +37,7 @@
 |------|---------|--------------|-----------------|
 | 🥇 #1 | United States | 4140 | 2842 |
 | 🥈 #2 | Brazil | 2135 | 1528 |
-| 🥉 #3 | Canada | 759 | 566 |
+| 🥉 #3 | Canada | 758 | 565 |
 | #4 | Mexico | 605 | 454 |
 | #5 | Peru | 496 | 415 |
 
