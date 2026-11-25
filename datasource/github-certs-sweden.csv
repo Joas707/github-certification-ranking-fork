@@ -1,9 +1,10 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Susanna,,Ryder,10,/users/susanna-persson/badges
+Andreas,,Bergman,1,/users/andreas-bergman.902f91e0/badges
 Jessica,,Chavez Ruiz,5,/users/jessica-chavez-ruiz.1bf5de96/badges
 Simon,,Minshall,6,/users/simon-minshall.20aca067/badges
-Susanna,,Ryder,9,/users/susanna-persson/badges
 Therese,,Berge,8,/users/therese-berge.8333c957/badges
-Magnus,,Timner,14,/users/magnus-timner.ddd6329c/badges
+Magnus,,Timner,15,/users/magnus-timner.ddd6329c/badges
 Eric,,Söderqvist,7,/users/eric-soderqvist/badges
 Patrik,,Polyak,6,/users/patrik-polyak/badges
 Jorge,,Montero,2,/users/jorge-montero.d6ffec73/badges
@@ -78,7 +79,7 @@ Andreas,,Kahlroth,3,/users/andreas-kahlroth/badges
 Evelina,,Johansson,1,/users/evelina-johansson/badges
 Johan,,Nordberg,5,/users/johan-nordberg/badges
 Denys,,Lashchevskyi,5,/users/denys-lashchevskyi/badges
-Michel,,Antonio,2,/users/michel-antonio/badges
+Michel,,Antonio,3,/users/michel-antonio/badges
 Mattias,,Fjellström,2,/users/mattias-fjellstrom/badges
 David,,Lidevi,1,/users/david-lidevi/badges
 Vivek,,Dhami,1,/users/vivek-dhami.a6ae5a90/badges
@@ -112,7 +113,7 @@ Frej,,Fredholm,1,/users/frej-fredholm/badges
 Ivan,,Martinez,1,/users/ivan-martinez.b5c94237/badges
 Jonathan,,Rengius Persson,1,/users/jonathan-rengius-persson/badges
 Andreas,,Olsson,1,/users/andreas-olsson.adc7fee7/badges
-David,,Ndirangu,3,/users/david-ndirangu/badges
+David,,Ndirangu,4,/users/david-ndirangu/badges
 Fredrik,,Holm,1,/users/fredrik-holm.1c1c0771/badges
 Vivek,,Dhami,1,/users/vivek-dhami.9f681d3f/badges
 Tiberiu,,Covaci,1,/users/tiberiu-covaci/badges
