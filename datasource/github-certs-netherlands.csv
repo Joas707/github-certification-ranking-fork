@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Johan,,van der Hoeven,7,/users/johan-van-der-hoeven/badges
 Clemens,,Clemens.Reijnen@Sogeti.com,2,/users/clemens-clemens-reijnen-sogeti-com/badges
 Joas,,de Groot,21,/users/joas707/badges
 Alexandru,,Lazarescu,16,/users/alexandru-lazarescu/badges
@@ -26,7 +27,6 @@ Virginia,,Hamra,2,/users/v-hamra/badges
 pascal,,Kruijmel,1,/users/pascal-kruijmel/badges
 Samuel Henrique,,van Lenthe,10,/users/samuel-henrique-van-lenthe/badges
 Rene,,van Osnabrugge,6,/users/rene-van-osnabrugge.8e35eff3/badges
-Johan,,van der Hoeven,6,/users/johan-van-der-hoeven/badges
 Mark,van der,Burg,12,/users/mark-van-der-burg.22851d3e/badges
 Roderick,,Schoon,2,/users/roderick-schoon/badges
 Marcel,,Groennou,1,/users/marcel-groennou/badges
